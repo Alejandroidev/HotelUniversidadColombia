@@ -18,7 +18,22 @@ namespace HotelUColombia.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Home()
+        {
+            return View();
+        }
+
+        public IActionResult Disponibilidad()
+        {
+            return View();
+        }
+
+        public IActionResult AcercaDe()
+        {
+            return View();
+        }
+
+        public IActionResult QuickSearch()
         {
             return View();
         }

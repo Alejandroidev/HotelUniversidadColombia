@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\HotelUniversidadColombia
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Acerca-de.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2EtZGUuY3NodG1s
+[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/AcercaDe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FEZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Contacto.cshtml]
@@ -36,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Quick-search.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWljay1zZWFyY2guY3NodG1s
+[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/QuickSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWlja1NlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Shared/Error.cshtml]
