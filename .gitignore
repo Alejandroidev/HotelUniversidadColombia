@@ -615,3 +615,9 @@ FodyWeavers.xsd
 .env
 /.vs/HotelUColombia/v17/.suo
 /.vs/HotelUColombia/DesignTimeBuild/.dtbcache.v2
+/bin/Debug/net6.0/HotelUColombia.dll
+/bin/Debug/net6.0/HotelUColombia.pdb
+/obj/Debug/net6.0/ref/HotelUColombia.dll
+/obj/Debug/net6.0/refint/HotelUColombia.dll
+/obj/Debug/net6.0/HotelUColombia.dll
+/obj/Debug/net6.0/HotelUColombia.pdb
