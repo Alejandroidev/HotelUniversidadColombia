@@ -1,6 +1,6 @@
 ﻿namespace HotelUColombia.Models
 {
-    public class Rooms
+    public class Rooms : BaseClass
     {
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace HotelUColombia.Models
 {
-    public class Client
+    public class Client : BaseClass
     {
     }
 }

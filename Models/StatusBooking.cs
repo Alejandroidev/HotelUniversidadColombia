@@ -1,6 +1,6 @@
 ﻿namespace HotelUColombia.Models
 {
-    public class StatusBooking
+    public class StatusBooking : BaseClass
     {
     }
 }
