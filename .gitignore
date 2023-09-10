@@ -613,3 +613,5 @@ FodyWeavers.xsd
 
 # Local environment variables file
 .env
+/.vs/HotelUColombia/v17/.suo
+/.vs/HotelUColombia/DesignTimeBuild/.dtbcache.v2
