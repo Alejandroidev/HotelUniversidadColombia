@@ -1,11 +1,13 @@
 ﻿using HotelUColombia.Data;
 using HotelUColombia.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Data.Entity.Migrations;
 
-namespace It270.MedicalManagement.Accounting.Infrastructure.Data;
+namespace HotelUColombia.Data;
 
 public class HotelUColombiaContextSeed
 {
+
     public static async Task SeedAsync(HotelUColombiaContext generalContext,
         ILogger logger,
         int retry = 0)

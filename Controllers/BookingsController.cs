@@ -48,7 +48,8 @@ namespace HotelUColombia.Controllers
         // GET: Bookings/Create
         public IActionResult Create()
         {
-            return View();
+            Booking booking = new Booking();
+            return View(booking);
         }
 
         // POST: Bookings/Create
