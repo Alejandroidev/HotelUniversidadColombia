@@ -11,7 +11,6 @@ public static class Dependencies
 {
     public static void ConfigureServices(IConfiguration configuration, IServiceCollection services)
     {
-        var test = configuration.GetConnectionString("HotelUColombiaContext");
         services.AddDbContext<HotelUColombiaContext>(c =>c.UseNpgsql(configuration.GetConnectionString("HotelUColombiaContext")));
     }
 }
