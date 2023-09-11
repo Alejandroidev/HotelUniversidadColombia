@@ -30,7 +30,7 @@
         /// <summary>
         /// Get or Set ValorDaily
         /// </summary>
-        public float ValorDaily { get; set; }
+        public double ValorDaily { get; set; }
 
         /// <summary>
         /// Get or Set IdStatus
