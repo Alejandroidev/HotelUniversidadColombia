@@ -9,8 +9,7 @@ namespace It270.MedicalManagement.Accounting.Infrastructure.Data;
 
 public static class Dependencies
 {
-    public static void ConfigureServices(IConfiguration configuration, IServiceCollection services)
-    {
-        services.AddDbContext<HotelUColombiaContext>(c =>c.UseNpgsql(configuration.GetConnectionString("HotelUColombiaContext")));
-    }
+    public static void ConfigureServices(IConfiguration configuration, IServiceCollection services) 
+    => services.AddDbContext<HotelUColombiaContext>(c =>c.UseNpgsql(configuration.GetConnectionString("HotelUColombiaContext")));
+    
 }
