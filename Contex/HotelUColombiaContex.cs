@@ -2,7 +2,7 @@
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
-namespace ContosoUniversity.DAL
+namespace HotelUColombia.DAL
 {
     public class HotelUColombiaContext : DbContext
     {
