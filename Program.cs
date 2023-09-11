@@ -1,3 +1,6 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using HotelUColombia.Data;
 namespace HotelUColombia
 {
     public class Program
@@ -5,6 +8,8 @@ namespace HotelUColombia
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<HotelUColombiaContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("HotelUColombiaContext") ?? throw new InvalidOperationException("Connection string 'HotelUColombiaContext' not found.")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
