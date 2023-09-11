@@ -52,7 +52,18 @@ public class HotelUColombiaContextSeed
                     PickUpDate = DateTime.Now.AddDays(1),
                     ReturnDate = DateTime.Now.AddDays(3),
                     IdStatus = 1,
-                    ValorDaily = 120.000,
+                    ValorTotal = 120.000,
+                    IdUsuario = 1,
+                },
+                new Booking
+                {
+                    IdCliente = 2,
+                    IdRoom = 2,
+                    CreatedDate = DateTime.Now,
+                    PickUpDate = DateTime.Now.AddDays(3),
+                    ReturnDate = DateTime.Now.AddDays(5),
+                    IdStatus = 1,
+                    ValorTotal = 160.000,
                     IdUsuario = 1,
                 }
             };
