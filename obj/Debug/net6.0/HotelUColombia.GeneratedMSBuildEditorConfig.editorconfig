@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelUColombia
 build_property.RootNamespace = HotelUColombia
-build_property.ProjectDir = C:\Users\USER\source\repos\HotelUniversidadColombia\
+build_property.ProjectDir = C:\Users\ljacobo\Documents\GitHub\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\HotelUniversidadColombia
+build_property.MSBuildProjectDirectory = C:\Users\ljacobo\Documents\GitHub
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/AcercaDe.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/AcercaDe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FEZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Contacto.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/Contacto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Disponibilidad.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/Disponibilidad.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwb25pYmlsaWRhZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Home.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/Index.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Home/QuickSearch.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Home/QuickSearch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWlja1NlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/_ViewImports.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/_ViewStart.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/source/repos/HotelUniversidadColombia/Views/Shared/_Layout.cshtml]
+[C:/Users/ljacobo/Documents/GitHub/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d165r4qctz
