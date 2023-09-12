@@ -22,5 +22,20 @@
         /// </summary>
         public string Correo { get; set; }
 
+        /// <summary>
+        /// Get or Set Comentario
+        /// </summary>
+        public string Comentario { get; set; }
+
+        /// <summary>
+        /// Get or Set Nombre_Usuario
+        /// </summary>
+        public string Nombre_Usuario { get; set; }
+
+        /// <summary>
+        /// Get or Set Contraseña
+        /// </summary>
+        public string Contraseña { get; set; }
+
     }
 }
