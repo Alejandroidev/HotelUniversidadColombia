@@ -5,6 +5,6 @@
         /// <summary>
         /// Get or Set Status
         /// </summary>
-        public string Status { get; set; }
+        public string? Status { get; set; }
     }
 }
