@@ -2,6 +2,7 @@
 {
     public class Client : BaseClass
     {
+<<<<<<< HEAD
         /// <summary>
         /// Get or Set Name
         /// </summary>
@@ -22,5 +23,8 @@
         /// Get or Set Coments
         /// </summary>
         public string? Coments { get; set; }
+=======
+        public string Nombre { get; set; }
+>>>>>>> Contex
     }
 }
