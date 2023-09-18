@@ -18,10 +18,6 @@
         /// Get or Set Email
         /// </summary>
         public string? Email { get; set; }
-        /// <summary>
-        /// Get or Set Coments
-        /// </summary>
-        public string? Coments { get; set; }
 
     }
 }

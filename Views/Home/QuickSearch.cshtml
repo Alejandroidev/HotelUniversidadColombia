@@ -1,5 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
@@ -52,34 +53,37 @@
                             <div class="u-container-layout u-container-layout-2">
                                 <div class="u-form u-form-1">
                                     <form action="https://forms.nicepagesrv.com/v2/form/process" class="u-clearfix u-form-spacing-28 u-form-vertical u-inner-form" source="email" name="form" style="padding: 0px;" redirect="true" redirect-address="672019887#sec-4fc6">
+
                                         <div class="u-form-group u-form-name u-form-partition-factor-2 u-form-group-1">
                                             <label for="name-8e54" class="u-label">Pick-up</label>
-                                            <input type="text" placeholder="Dia de ingreso" id="name-8e54" name="pick-up-d" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
+                                            <input type="date" placeholder="Dia de ingreso" id="name-8e54" name="pick-up-d" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
                                         </div>
+
                                         <div class="u-form-group u-form-name u-form-partition-factor-2 u-form-group-2">
                                             <label for="name-8e54" class="u-label">Return dat</label>
-                                            <input type="text" placeholder="Dia de entrega" id="name-8e54" name="Pick-up-h" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
+                                            <input type="date" placeholder="Dia de entrega" id="name-8e54" name="Pick-up-h" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
                                         </div>
-                                        <div class="u-form-email u-form-group u-form-partition-factor-2">
-                                            <label for="email-c6a3" class="u-label">Email</label>
-                                            <input type="email" placeholder="Enter a valid email address" id="email-c6a3" name="email" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="" wfd-id="id114">
+
+                                        <div class="u-form-group u-form-select u-form-group-6">
+                                            <label for="select-0827" class="u-label">Tipo de Habitacion</label>
+                                            <div class="u-form-select-wrapper">
+                                                <select id="select-0827" name="select" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none">
+                                                    <option value="1" style="color:black">Economica</option>
+                                                    <option value="2" style="color:black">Estandar</option>
+                                                    <option value="3" style="color:black">Deluxe</option>
+                                                </select>
+                                                <svg class="u-caret u-caret-svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="fill:currentColor;" xml:space="preserve"><polygon class="st0" points="8,12 2,4 14,4 "></polygon></svg>
+                                            </div>
                                         </div>
-                                        <div class="u-form-group u-form-partition-factor-2 u-form-phone u-form-group-4">
-                                            <label for="phone-84d9" class="u-label">Phone</label>
-                                            <input type="tel" pattern="\+?\d{0,3}[\s\(\-]?([0-9]{2,3})[\s\)\-]?([\s\-]?)([0-9]{3})[\s\-]?([0-9]{2})[\s\-]?([0-9]{2})" placeholder="Enter your phone (e.g. +14155552675)" id="phone-84d9" name="phone" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="" wfd-id="id116">
-                                        </div>
-                                        <div class="u-form-group u-form-group-5">
-                                            <label for="text-9d54" class="u-label">Nombre completo</label>
-                                            <input type="text" placeholder="" id="text-9d54" name="text" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none">
-                                        </div>
-                                        <div class="u-form-group u-form-message">
-                                            <label for="message-c6a3" class="u-label">Message</label>
-                                            <textarea placeholder="Enter your message" rows="4" cols="50" id="message-c6a3" name="message" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required=""></textarea>
-                                        </div>
+
+
+
+
                                         <div class="u-align-center u-form-group u-form-submit">
                                             <a href="#" class="u-btn u-btn-round u-btn-submit u-button-style u-palette-3-base u-radius-50 u-btn-2">Buscar disponibilidad</a>
                                             <input type="submit" value="submit" class="u-form-control-hidden" wfd-id="id118">
                                         </div>
+
                                         <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
                                         <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
                                         <input type="hidden" value="" name="recaptchaResponse" wfd-id="id119">
