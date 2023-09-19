@@ -55,6 +55,7 @@ namespace HotelUColombia
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Name,LastName,Phone,Email,Coments,Id")] Client client)
         {
+
             if (ModelState.IsValid)
             {
                 _context.Add(client);
@@ -162,9 +163,21 @@ namespace HotelUColombia
             return View();
         }
 
-        public IActionResult Disponibilidad()
+        public async Task<IActionResult> Disponibilidad(int id,int totaldays)
         {
-            return View();
+            if (id != 0)
+            {
+                var room = _context.Rooms.Where(room => room.Id == id);
+                return _context.Rooms.Where(room => room.Id == id) != null ?
+                View(room) :
+                Problem("Entity set 'HotelUColombiaContext.Rooms'  is null.");
+            }
+            else
+            {
+                return _context.Rooms != null ?
+                View(await _context.Rooms.ToListAsync()) :
+                Problem("Entity set 'HotelUColombiaContext.Rooms'  is null.");
+            }
         }
 
         public IActionResult AcercaDe()
@@ -174,6 +187,40 @@ namespace HotelUColombia
 
         public IActionResult QuickSearch()
         {
+            return View();
+        }
+
+        [Route("Home")]
+        [Route("Home/QuickSearch/{id}")]
+        [HttpGet]
+        public IActionResult QuickSearch(DateTime d1, DateTime d2, int h1)
+        {
+            int id = _context.Client.LastOrDefault().Id;
+
+            Booking booking = new() 
+            {
+                CreatedDate = DateTime.Now,
+                IdRoom = h1,
+                IdStatus = 1,
+                PickUpDate = d1,
+                ReturnDate = d2,
+                IdCliente = id,
+                IdUsuario = 0,
+                ValorTotal = 0
+             };
+            
+
+            
+            _context.Booking.Add(booking);
+            _context.SaveChanges();
+
+            if (h1>0)
+            {
+                TimeSpan dias = d2 - d1;
+                int dia = dias.Days;
+                return RedirectToAction(nameof(Disponibilidad));
+            }
+            
             return View();
         }
 

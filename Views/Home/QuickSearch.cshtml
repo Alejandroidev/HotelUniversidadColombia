@@ -53,22 +53,22 @@
                         <div class="u-container-style u-layout-cell u-size-38 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                             <div class="u-container-layout u-container-layout-2">
                                 <div class="u-form u-form-1">
-                                    <form asp-action="Disponibilidad" class="u-clearfix u-form-spacing-28 u-form-vertical u-inner-form" source="email" name="form" style="padding: 0px;" redirect="true" redirect-address="672019887#sec-4fc6">
+                                    <form method="get">
 
                                         <div class="u-form-group u-form-name u-form-partition-factor-2 u-form-group-1">
                                             <label asp-for="PickUpDate" class="u-label">Pick-up</label>
-                                            <input asp-for="PickUpDate" type="date" placeholder="Dia de ingreso" id="name-8e54" name="pick-up-d" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
+                                            <input asp-for="PickUpDate" type="date" placeholder="Dia de ingreso" id="d1" name="d1" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
                                         </div>
 
                                         <div class="u-form-group u-form-name u-form-partition-factor-2 u-form-group-2">
                                             <label asp-for="ReturnDate" class="u-label">Return dat</label>
-                                            <input asp-for="ReturnDate" placeholder="Dia de entrega" id="name-8e54" name="Pick-up-h" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
+                                            <input asp-for="ReturnDate" type="date" placeholder="Dia de entrega" id="d2" name="d2" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none" required="">
                                         </div>
 
                                         <div class="u-form-group u-form-select u-form-group-6">
                                             <label for="select-0827" class="u-label">Tipo de Habitacion</label>
                                             <div class="u-form-select-wrapper">
-                                                <select id="select-0827" name="select" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none">
+                                                <select id="h1" name="h1" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-none">
                                                     <option value="1" style="color:black">Economica</option>
                                                     <option value="2" style="color:black">Estandar</option>
                                                     <option value="3" style="color:black">Deluxe</option>
@@ -79,16 +79,11 @@
 
 
 
-
                                         <div class="u-align-center u-form-group u-form-submit">
                                             <a href="#" class="u-btn u-btn-round u-btn-submit u-button-style u-palette-3-base u-radius-50 u-btn-2">Buscar disponibilidad</a>
                                             <input type="submit" value="submit" class="u-form-control-hidden" wfd-id="id118">
                                         </div>
 
-                                        <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
-                                        <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
-                                        <input type="hidden" value="" name="recaptchaResponse" wfd-id="id119">
-                                        <input type="hidden" name="formServices" value="b6284f6f-0cca-9eaf-2a51-55863c0a618c">
                                     </form>
                                 </div>
                             </div>
