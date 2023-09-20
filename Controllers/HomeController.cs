@@ -194,30 +194,29 @@ namespace HotelUColombia
         [Route("Home/QuickSearch/{id}")]
         [HttpGet]
         public IActionResult QuickSearch(DateTime d1, DateTime d2, int h1)
-        {
-            int id = _context.Client.LastOrDefault().Id;
-
-            Booking booking = new() 
-            {
-                CreatedDate = DateTime.Now,
-                IdRoom = h1,
-                IdStatus = 1,
-                PickUpDate = d1,
-                ReturnDate = d2,
-                IdCliente = id,
-                IdUsuario = 0,
-                ValorTotal = 0
-             };
-            
-
-            
-            _context.Booking.Add(booking);
-            _context.SaveChanges();
-
+        {            
             if (h1>0)
             {
                 TimeSpan dias = d2 - d1;
                 int dia = dias.Days;
+                var rooms = _context.Rooms.ToList().Where(room => room.Id == h1).FirstOrDefault();
+                var totalPrice = rooms.Price * dia;
+                var id = _context.Client.ToList();
+
+                Booking booking = new()
+                {
+                    CreatedDate = DateTime.Now,
+                    IdRoom = h1,
+                    IdStatus = 1,
+                    PickUpDate = d1,
+                    ReturnDate = d2,
+                    IdCliente = id.LastOrDefault().Id,
+                    IdUsuario = 0,
+                    ValorTotal = totalPrice
+                };
+
+                _context.Booking.Add(booking);
+                _context.SaveChanges();
                 return RedirectToAction(nameof(Disponibilidad));
             }
             
