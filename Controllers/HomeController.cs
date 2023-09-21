@@ -5,6 +5,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HotelUColombia
 {
+    /// <summary>
+    /// Controlador principal del AppHotel
+    /// </summary>
     public class HomeController : Controller
     {
         #region constantes
