@@ -7,6 +7,7 @@ namespace HotelUColombia
 {
     public class HomeController : Controller
     {
+        #region constantes
         private readonly HotelUColombiaContext _context;
         private readonly ILogger<HomeController> _logger;
 
@@ -15,16 +16,27 @@ namespace HotelUColombia
             _logger = logger;
             _context = context;
         }
+        #endregion
 
-        // GET: Home
+        #region get Cliente
+        /// <summary>
+        /// get info cliente
+        /// </summary>
+        /// <returns>list clientes</returns>
         public async Task<IActionResult> Index()
         {
             return _context.Client != null ?
                         View(await _context.Client.ToListAsync()) :
                         Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
         }
+        #endregion
 
-        // GET: Home/Details/5
+        #region details
+        /// <summary>
+        /// Method <c>Details</c> trae el detalle de un cliente individual
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>detalle de cliente</returns>
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Client == null)
@@ -41,13 +53,16 @@ namespace HotelUColombia
 
             return View(client);
         }
+        #endregion
 
-        // GET: Home/Create
+        #region create
         public IActionResult Create()
         {
             return View();
         }
+        #endregion
 
+        #region Create cliente
         /// <summary>
         /// Crea la informacion del cliente traide del front
         /// </summary>
@@ -66,8 +81,14 @@ namespace HotelUColombia
             }
             return View(client);
         }
+        #endregion
 
-        // GET: Home/Edit/5
+        #region edit client view
+        /// <summary>
+        /// Method <c>Edit</c>
+        /// </summary>
+        /// <param name="id">id client</param>
+        /// <returns>vista de edicion</returns>
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Client == null)
@@ -82,10 +103,15 @@ namespace HotelUColombia
             }
             return View(client);
         }
+        #endregion
 
-        // POST: Home/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        #region Edit client
+        /// <summary>
+        /// Edit
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="client"></param>
+        /// <returns></returns>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Name,LastName,Phone,Email,Coments,Id")] Client client)
@@ -117,8 +143,14 @@ namespace HotelUColombia
             }
             return View(client);
         }
+        #endregion
 
-        // GET: Home/Delete/5
+        #region delete client view
+        /// <summary>
+        /// Delete view
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Client == null)
@@ -135,8 +167,14 @@ namespace HotelUColombia
 
             return View(client);
         }
+        #endregion
 
-        // POST: Home/Delete/5
+        #region DeleteClient
+        /// <summary>
+        /// Delete Client
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -154,17 +192,37 @@ namespace HotelUColombia
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        #endregion
 
+        #region ClientExists 
+        /// <summary>
+        /// ClientExists
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         private bool ClientExists(int id)
         {
             return (_context.Client?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+        #endregion
 
+        #region Home
+        /// <summary>
+        /// Home view
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Home()
         {
             return View();
         }
+        #endregion
 
+        #region Disponibilidad
+        /// <summary>
+        /// regresa la vista con las habitaciones disponibles
+        /// </summary>
+        /// <param name="id">id room</param>
+        /// <returns>vista de habitaciones</returns>
         public async Task<IActionResult> Disponibilidad(int id)
         {
             if (id != 0)
@@ -181,17 +239,23 @@ namespace HotelUColombia
                 Problem("Entity set 'HotelUColombiaContext.Rooms'  is null.");
             }
         }
+        #endregion
 
+        #region AcercaDe
         public IActionResult AcercaDe()
         {
             return View();
         }
+        #endregion
 
+        #region QuickSearchVista
         public IActionResult QuickSearch()
         {
             return View();
         }
+        #endregion
 
+        #region QuickSearch
         /// <summary>
         /// Method <c>QuickSearch</c> crea la reserba con los datos ingresados por usuario
         /// </summary>
@@ -231,17 +295,30 @@ namespace HotelUColombia
             
             return View();
         }
+        #endregion
 
+        #region ContactoView
+        /// <summary>
+        /// Contacto
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Contacto()
         {
             return View();
         }
+        #endregion
 
+        #region GetClient
+        /// <summary>
+        /// GetClient
+        /// </summary>
+        /// <returns></returns>
         public async Task<IActionResult> GetClient()
         {
             return _context.Client != null ?
                         View(await _context.Client.ToListAsync()) :
                         Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
         }
+        #endregion
     }
 }
