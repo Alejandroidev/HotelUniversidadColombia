@@ -195,14 +195,13 @@ namespace HotelUColombia
         /// <summary>
         /// Method <c>QuickSearch</c> crea la reserba con los datos ingresados por usuario
         /// </summary>
-        /// <param name="indexDay"></param>
-        /// <param name="returnDay"></param>
-        /// <param name="typeRoom"></param>
+        /// <param name="indexDay"> index day</param>
+        /// <param name="returnDay"> retun day</param>
+        /// <param name="typeRoom"> type room</param>
         /// <returns>vista de disponibilidad</returns>
         [Route("Home")]
         [Route("Home/QuickSearch/{id}")]
-        [HttpGet]
-        
+        [HttpGet]      
         public IActionResult QuickSearch(DateTime indexDay, DateTime returnDay, int typeRoom)
         {            
             if (typeRoom > 0)
