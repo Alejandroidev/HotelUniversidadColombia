@@ -1,5 +1,8 @@
 ﻿namespace HotelUColombia.Models
 {
+    /// <summary>
+    /// Creado por Julieth viviana Santana
+    /// </summary>
     public class StatusBooking : BaseClass
     {
         /// <summary>

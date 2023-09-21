@@ -7,7 +7,13 @@ namespace HotelUColombia.Data;
 
 public class HotelUColombiaContextSeed
 {
-
+    /// <summary>
+    /// Creado Por Alejandro Salcedo
+    /// </summary>
+    /// <param name="generalContext"></param>
+    /// <param name="logger"></param>
+    /// <param name="retry"></param>
+    /// <returns></returns>
     public static async Task SeedAsync(HotelUColombiaContext generalContext,
         ILogger logger,
         int retry = 0)
@@ -15,7 +21,9 @@ public class HotelUColombiaContextSeed
         var retryForAvailability = retry;
         try
         {
-            #region Seed TypeSubLocation data
+            #region Seed Booking data
+            /// es un proceso asyncronico que nos permite agregar registros a la Base de datos uan vez a sido creada
+            // aca agregamos 2 reservas
             if (!await generalContext.Booking.AnyAsync())
             {
                 await generalContext.Booking.AddRangeAsync(
@@ -25,7 +33,8 @@ public class HotelUColombiaContextSeed
             }
             #endregion
 
-            #region Seed TypeSubLocation data
+            #region Seed Rooms data
+            // aca agregamos 3 tipos de habitacions
             if (!await generalContext.Rooms.AnyAsync())
             {
                 await generalContext.Rooms.AddRangeAsync(

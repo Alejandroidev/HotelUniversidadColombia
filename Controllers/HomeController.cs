@@ -48,9 +48,11 @@ namespace HotelUColombia
             return View();
         }
 
-        // POST: Home/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        /// <summary>
+        /// Crea la informacion del cliente traide del front
+        /// </summary>
+        /// <param name="client">client</param>
+        /// <returns>retorna la vista de home si no hay formulario, si hay formulario retorna la vista de quick search</returns>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Name,LastName,Phone,Email,Coments,Id")] Client client)
@@ -163,7 +165,7 @@ namespace HotelUColombia
             return View();
         }
 
-        public async Task<IActionResult> Disponibilidad(int id,int totaldays)
+        public async Task<IActionResult> Disponibilidad(int id)
         {
             if (id != 0)
             {
@@ -190,26 +192,34 @@ namespace HotelUColombia
             return View();
         }
 
+        /// <summary>
+        /// Method <c>QuickSearch</c> crea la reserba con los datos ingresados por usuario
+        /// </summary>
+        /// <param name="indexDay"></param>
+        /// <param name="returnDay"></param>
+        /// <param name="typeRoom"></param>
+        /// <returns>vista de disponibilidad</returns>
         [Route("Home")]
         [Route("Home/QuickSearch/{id}")]
         [HttpGet]
-        public IActionResult QuickSearch(DateTime d1, DateTime d2, int h1)
+        
+        public IActionResult QuickSearch(DateTime indexDay, DateTime returnDay, int typeRoom)
         {            
-            if (h1>0)
+            if (typeRoom > 0)
             {
-                TimeSpan dias = d2 - d1;
+                TimeSpan dias = returnDay - indexDay;
                 int dia = dias.Days;
-                var rooms = _context.Rooms.ToList().Where(room => room.Id == h1).FirstOrDefault();
+                var rooms = _context.Rooms.ToList().Where(room => room.Id == typeRoom).FirstOrDefault();
                 var totalPrice = rooms.Price * dia;
                 var id = _context.Client.ToList();
 
                 Booking booking = new()
                 {
                     CreatedDate = DateTime.Now,
-                    IdRoom = h1,
+                    IdRoom = typeRoom,
                     IdStatus = 1,
-                    PickUpDate = d1,
-                    ReturnDate = d2,
+                    PickUpDate = indexDay,
+                    ReturnDate = returnDay,
                     IdCliente = id.LastOrDefault().Id,
                     IdUsuario = 0,
                     ValorTotal = totalPrice

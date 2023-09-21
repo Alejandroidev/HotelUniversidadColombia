@@ -1,5 +1,8 @@
 ﻿namespace HotelUColombia.Models
 {
+    /// <summary>
+    /// Creado por Luis Alejandro Suesca Pérez y Jonathan
+    /// </summary>
     public class Client : BaseClass
     {
         /// <summary>

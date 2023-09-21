@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using HotelUColombia.Models;
 using Microsoft.EntityFrameworkCore;
-using HotelUColombia.Models;
 using System.Reflection;
 
 namespace HotelUColombia.Data
