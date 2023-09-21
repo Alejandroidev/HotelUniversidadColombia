@@ -5,74 +5,107 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
 
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="es">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Acerca de</title>
+    <link rel="stylesheet" href="main.css" media="screen">
+    <link rel="stylesheet" href="Acerca-de.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="main.js" defer=""></script>
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+
+
+
+    <script type="application/ld+json">
+        {
+                "context": "http://schema.org",
+                "type": "Organization",
+                "name": "CatCodeStudio",
+                "logo": "images/Logo-UniversitariadeColombia.png",
+                "sameAs": []
+        }</script>
+    <meta name="theme-color" content="#29b7dd">
+    <meta property="og:title" content="Acerca de">
+    <meta property="og:type" content="website">
+    <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.IdRoom)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.IdRoom)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdCliente)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.IdCliente)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PickUpDate)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.PickUpDate)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ReturnDate)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.ReturnDate)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CreatedDate)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.CreatedDate)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ValorTotal)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.ValorTotal)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdStatus)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.IdStatus)|
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdUsuario)
+            <th style="padding-left:25px">
+                @Html.DisplayNameFor(model => model.IdUsuario)|
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdRoom)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdCliente)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.PickUpDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ReturnDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ValorTotal)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdStatus)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdUsuario)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.IdRoom)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.IdCliente)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.PickUpDate)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.ReturnDate)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.CreatedDate)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.ValorTotal)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.IdStatus)
+                </td>
+                <td style="padding-left:25px">
+                    @Html.DisplayFor(modelItem => item.IdUsuario)
+                </td>
+                <td style="padding-left:25px">
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+</html>
+
+
+
