@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5tywpOgQjfrntTjpF0NaQ6vIrxqbkFGAvZV7mrCpS6k=",
+  "Hash": "mskJepbhGeCaxjP53WjijoEvdYQvJIjcs8+TlVdRQxo=",
   "Source": "HotelUColombia",
   "BasePath": "_content/HotelUColombia",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HotelUColombia\\wwwroot",
       "Source": "HotelUColombia",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelUColombia.styles.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelUColombia.styles.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "HotelUColombia.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelUColombia.styles.css"
+      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelUColombia.styles.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "HotelUColombia.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Acerca-de.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Acerca-de.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Acerca-de.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Acerca-de.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\blog.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\blog.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/blog.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-1.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-1.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar-1.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar-1.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-2.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-2.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar-2.html",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar-2.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-3.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-3.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar-3.html",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar-3.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-4.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-4.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar-4.html",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar-4.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-5.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-5.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "blog/enviar-5.html",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\blog\\enviar-5.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Blog-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Blog-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Blog-Template.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Blog-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Acerca-de.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Acerca-de.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Acerca-de.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Acerca-de.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\blog.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\blog.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/blog.html",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar.html",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-1.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-1.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar-1.html",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar-1.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-2.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-2.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar-2.html",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar-2.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-3.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-3.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar-3.html",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar-3.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-4.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-4.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar-4.html",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar-4.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-5.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-5.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/blog/enviar-5.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\blog\\enviar-5.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Blog-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Blog-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Blog-Template.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Blog-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Contacto.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Contacto.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Contacto.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Contacto.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\dispo.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\dispo.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/dispo.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\dispo.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Disponibilidad.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Disponibilidad.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Disponibilidad.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Disponibilidad.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Home.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Home.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Home.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\0fd3416c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\0fd3416c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/0fd3416c.jpeg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\0fd3416c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\68f64b9d.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\68f64b9d.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/68f64b9d.jpeg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\68f64b9d.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\8ad73f3c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\8ad73f3c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/8ad73f3c.jpeg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\8ad73f3c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/back-view-crowd-fans-watching-7.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\default-logo.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\default-logo.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/default-logo.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\default-logo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Deluxe-1.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Deluxe-1.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/Deluxe-1.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\Deluxe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/deluxe-room-double-bed-02_wide.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\descarga.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\descarga.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/descarga.jpeg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\descarga.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\images.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\images.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/images.jpeg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Logo-UniversitariadeColombia.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Logo-UniversitariadeColombia.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/images/Logo-UniversitariadeColombia.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/intlTelInput/intlTelInput.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.min.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.min.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/intlTelInput/intlTelInput.min.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\utils.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\utils.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/intlTelInput/utils.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\intlTelInput\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\jquery.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\jquery.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/jquery.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/main.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/main.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/nicepage.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\nicepage.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/nicepage.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\nicepage.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Post-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Post-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Post-Template.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Post-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Quick-search.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Quick-search.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Quick-search.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Quick-search.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Thank-You-Page-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Thank-You-Page-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Bookings/Thank-You-Page-Template.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\Bookings\\Thank-You-Page-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Contacto.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Contacto.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Contacto.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Contacto.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\dispo.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\dispo.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "dispo.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\dispo.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Disponibilidad.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Disponibilidad.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Disponibilidad.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Disponibilidad.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Acerca-de.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Acerca-de.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Acerca-de.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Acerca-de.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\blog.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\blog.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/blog.html",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar.html",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-1.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-1.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar-1.html",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar-1.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-2.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-2.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar-2.html",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar-2.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-3.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-3.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar-3.html",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar-3.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-4.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-4.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar-4.html",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar-4.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-5.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-5.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/blog/enviar-5.html",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\blog\\enviar-5.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Blog-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Blog-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Blog-Template.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Blog-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Contacto.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Contacto.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Contacto.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Contacto.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\dispo.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\dispo.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/dispo.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\dispo.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Disponibilidad.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Disponibilidad.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Disponibilidad.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Disponibilidad.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Home.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Home.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Home.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\0fd3416c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\0fd3416c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/0fd3416c.jpeg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\0fd3416c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\68f64b9d.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\68f64b9d.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/68f64b9d.jpeg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\68f64b9d.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\8ad73f3c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\8ad73f3c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/8ad73f3c.jpeg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\8ad73f3c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\back-view-crowd-fans-watching-7.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/back-view-crowd-fans-watching-7.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\default-logo.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\default-logo.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/default-logo.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\default-logo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Deluxe-1.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Deluxe-1.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/Deluxe-1.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\Deluxe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\deluxe-room-double-bed-02_wide.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/deluxe-room-double-bed-02_wide.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\descarga.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\descarga.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/descarga.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\descarga.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\images.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\images.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/images.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Logo-UniversitariadeColombia.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Logo-UniversitariadeColombia.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/images/Logo-UniversitariadeColombia.png",
       "AssetKind": "All",
@@ -1275,10 +1275,61 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Lozano.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
+      "BasePath": "_content/HotelUColombia",
+      "RelativePath": "Home/images/Lozano.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home\\images\\Lozano.png"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath y yo.png",
+      "SourceId": "HotelUColombia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
+      "BasePath": "_content/HotelUColombia",
+      "RelativePath": "Home/images/Nath y yo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home\\images\\Nath y yo.png"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath.png",
+      "SourceId": "HotelUColombia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
+      "BasePath": "_content/HotelUColombia",
+      "RelativePath": "Home/images/Nath.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home\\images\\Nath.png"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.css",
+      "SourceId": "HotelUColombia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/intlTelInput/intlTelInput.css",
       "AssetKind": "All",
@@ -1292,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.min.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.min.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/intlTelInput/intlTelInput.min.js",
       "AssetKind": "All",
@@ -1309,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\utils.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\utils.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/intlTelInput/utils.js",
       "AssetKind": "All",
@@ -1326,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\intlTelInput\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\jquery.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\jquery.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/jquery.js",
       "AssetKind": "All",
@@ -1343,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\main.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\main.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/main.css",
       "AssetKind": "All",
@@ -1360,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\main.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\main.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/main.js",
       "AssetKind": "All",
@@ -1377,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/nicepage.css",
       "AssetKind": "All",
@@ -1394,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\nicepage.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/nicepage.js",
       "AssetKind": "All",
@@ -1411,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\nicepage.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Post-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Post-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Post-Template.css",
       "AssetKind": "All",
@@ -1428,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Post-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Quick-search.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Quick-search.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Quick-search.css",
       "AssetKind": "All",
@@ -1445,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Quick-search.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Thank-You-Page-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Thank-You-Page-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Home/Thank-You-Page-Template.css",
       "AssetKind": "All",
@@ -1462,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Home\\Thank-You-Page-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\0fd3416c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\0fd3416c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/0fd3416c.jpeg",
       "AssetKind": "All",
@@ -1479,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0fd3416c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "AssetKind": "All",
@@ -1496,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\68f64b9d.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\68f64b9d.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/68f64b9d.jpeg",
       "AssetKind": "All",
@@ -1513,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\68f64b9d.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\8ad73f3c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\8ad73f3c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/8ad73f3c.jpeg",
       "AssetKind": "All",
@@ -1530,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8ad73f3c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\back-view-crowd-fans-watching-7.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/back-view-crowd-fans-watching-7.jpg",
       "AssetKind": "All",
@@ -1547,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\default-logo.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\default-logo.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/default-logo.png",
       "AssetKind": "All",
@@ -1564,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\default-logo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\Deluxe-1.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\Deluxe-1.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/Deluxe-1.jpg",
       "AssetKind": "All",
@@ -1581,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Deluxe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\deluxe-room-double-bed-02_wide.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/deluxe-room-double-bed-02_wide.jpg",
       "AssetKind": "All",
@@ -1598,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\descarga.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\descarga.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/descarga.jpeg",
       "AssetKind": "All",
@@ -1615,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\descarga.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\images.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\images.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/images.jpeg",
       "AssetKind": "All",
@@ -1632,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\Logo-UniversitariadeColombia.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\Logo-UniversitariadeColombia.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "images/Logo-UniversitariadeColombia.png",
       "AssetKind": "All",
@@ -1649,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "intlTelInput/intlTelInput.css",
       "AssetKind": "All",
@@ -1666,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.min.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.min.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "intlTelInput/intlTelInput.min.js",
       "AssetKind": "All",
@@ -1683,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\utils.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\utils.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "intlTelInput/utils.js",
       "AssetKind": "All",
@@ -1700,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\intlTelInput\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\jquery.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\jquery.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "jquery.js",
       "AssetKind": "All",
@@ -1717,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\main.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\main.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "main.css",
       "AssetKind": "All",
@@ -1734,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\main.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\main.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "main.js",
       "AssetKind": "All",
@@ -1751,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\nicepage.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\nicepage.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "nicepage.css",
       "AssetKind": "All",
@@ -1768,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\nicepage.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\nicepage.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\nicepage.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "nicepage.js",
       "AssetKind": "All",
@@ -1785,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\nicepage.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Post-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Post-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Post-Template.css",
       "AssetKind": "All",
@@ -1802,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Post-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Quick-search.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Quick-search.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Quick-search.css",
       "AssetKind": "All",
@@ -1819,12 +1870,12 @@
       "OriginalItemSpec": "wwwroot\\Quick-search.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Acerca-de.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Acerca-de.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Acerca-de.css",
+      "RelativePath": "rooms/Acerca-de.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Acerca-de.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Acerca-de.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\blog.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\blog.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/blog.html",
+      "RelativePath": "rooms/blog/blog.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\blog.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar.html",
+      "RelativePath": "rooms/blog/enviar.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-1.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-1.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar-1.html",
+      "RelativePath": "rooms/blog/enviar-1.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar-1.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar-1.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-2.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-2.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar-2.html",
+      "RelativePath": "rooms/blog/enviar-2.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar-2.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar-2.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-3.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-3.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar-3.html",
+      "RelativePath": "rooms/blog/enviar-3.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar-3.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar-3.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-4.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-4.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar-4.html",
+      "RelativePath": "rooms/blog/enviar-4.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar-4.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar-4.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-5.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-5.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/blog/enviar-5.html",
+      "RelativePath": "rooms/blog/enviar-5.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\blog\\enviar-5.html"
+      "OriginalItemSpec": "wwwroot\\rooms\\blog\\enviar-5.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Blog-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Blog-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Blog-Template.css",
+      "RelativePath": "rooms/Blog-Template.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Blog-Template.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Blog-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Contacto.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Contacto.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Contacto.css",
+      "RelativePath": "rooms/Contacto.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Contacto.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Contacto.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\dispo.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\dispo.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/dispo.css",
+      "RelativePath": "rooms/dispo.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\dispo.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\dispo.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Disponibilidad.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Disponibilidad.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Disponibilidad.css",
+      "RelativePath": "rooms/Disponibilidad.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Disponibilidad.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Disponibilidad.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Home.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Home.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Home.css",
+      "RelativePath": "rooms/Home.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Home.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\0fd3416c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\0fd3416c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/0fd3416c.jpeg",
+      "RelativePath": "rooms/images/0fd3416c.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\0fd3416c.jpeg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\0fd3416c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "RelativePath": "rooms/images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\68f64b9d.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\68f64b9d.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/68f64b9d.jpeg",
+      "RelativePath": "rooms/images/68f64b9d.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\68f64b9d.jpeg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\68f64b9d.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\8ad73f3c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\8ad73f3c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/8ad73f3c.jpeg",
+      "RelativePath": "rooms/images/8ad73f3c.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\8ad73f3c.jpeg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\8ad73f3c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\back-view-crowd-fans-watching-7.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/back-view-crowd-fans-watching-7.jpg",
+      "RelativePath": "rooms/images/back-view-crowd-fans-watching-7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\back-view-crowd-fans-watching-7.jpg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\default-logo.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\default-logo.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/default-logo.png",
+      "RelativePath": "rooms/images/default-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\default-logo.png"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\default-logo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\Deluxe-1.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\Deluxe-1.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/Deluxe-1.jpg",
+      "RelativePath": "rooms/images/Deluxe-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\Deluxe-1.jpg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\Deluxe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\deluxe-room-double-bed-02_wide.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/deluxe-room-double-bed-02_wide.jpg",
+      "RelativePath": "rooms/images/deluxe-room-double-bed-02_wide.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,15 +2224,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\deluxe-room-double-bed-02_wide.jpg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\descarga.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\descarga.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/descarga.jpeg",
+      "RelativePath": "rooms/images/descarga.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2190,15 +2241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\descarga.jpeg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\descarga.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\images.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\images.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/images.jpeg",
+      "RelativePath": "rooms/images/images.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\images.jpeg"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\Logo-UniversitariadeColombia.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\Logo-UniversitariadeColombia.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/images/Logo-UniversitariadeColombia.png",
+      "RelativePath": "rooms/images/Logo-UniversitariadeColombia.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,15 +2275,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\images\\Logo-UniversitariadeColombia.png"
+      "OriginalItemSpec": "wwwroot\\rooms\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\intlTelInput.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\intlTelInput.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/intlTelInput/intlTelInput.css",
+      "RelativePath": "rooms/intlTelInput/intlTelInput.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,15 +2292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\intlTelInput\\intlTelInput.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\intlTelInput.min.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\intlTelInput.min.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/intlTelInput/intlTelInput.min.js",
+      "RelativePath": "rooms/intlTelInput/intlTelInput.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2309,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\intlTelInput\\intlTelInput.min.js"
+      "OriginalItemSpec": "wwwroot\\rooms\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\utils.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\utils.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/intlTelInput/utils.js",
+      "RelativePath": "rooms/intlTelInput/utils.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,15 +2326,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\intlTelInput\\utils.js"
+      "OriginalItemSpec": "wwwroot\\rooms\\intlTelInput\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\jquery.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\jquery.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/jquery.js",
+      "RelativePath": "rooms/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2292,15 +2343,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\rooms\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\main.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\main.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/main.css",
+      "RelativePath": "rooms/main.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2309,15 +2360,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\main.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\main.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\main.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/main.js",
+      "RelativePath": "rooms/main.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2326,15 +2377,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\main.js"
+      "OriginalItemSpec": "wwwroot\\rooms\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\nicepage.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\nicepage.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/nicepage.css",
+      "RelativePath": "rooms/nicepage.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2343,15 +2394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\nicepage.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\nicepage.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\nicepage.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\nicepage.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/nicepage.js",
+      "RelativePath": "rooms/nicepage.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2360,15 +2411,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\nicepage.js"
+      "OriginalItemSpec": "wwwroot\\rooms\\nicepage.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Post-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Post-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Post-Template.css",
+      "RelativePath": "rooms/Post-Template.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2377,15 +2428,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Post-Template.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Post-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Quick-search.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Quick-search.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Quick-search.css",
+      "RelativePath": "rooms/Quick-search.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2394,15 +2445,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Quick-search.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Quick-search.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Thank-You-Page-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Thank-You-Page-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
-      "RelativePath": "Rooms/Thank-You-Page-Template.css",
+      "RelativePath": "rooms/Thank-You-Page-Template.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2411,13 +2462,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Rooms\\Thank-You-Page-Template.css"
+      "OriginalItemSpec": "wwwroot\\rooms\\Thank-You-Page-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Thank-You-Page-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Thank-You-Page-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Thank-You-Page-Template.css",
       "AssetKind": "All",
@@ -2431,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\Thank-You-Page-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Acerca-de.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Acerca-de.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Acerca-de.css",
       "AssetKind": "All",
@@ -2448,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Acerca-de.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\blog.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\blog.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/blog.html",
       "AssetKind": "All",
@@ -2465,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar.html",
       "AssetKind": "All",
@@ -2482,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-1.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-1.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar-1.html",
       "AssetKind": "All",
@@ -2499,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar-1.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-2.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-2.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar-2.html",
       "AssetKind": "All",
@@ -2516,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar-2.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-3.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-3.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar-3.html",
       "AssetKind": "All",
@@ -2533,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar-3.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-4.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-4.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar-4.html",
       "AssetKind": "All",
@@ -2550,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar-4.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-5.html",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-5.html",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/blog/enviar-5.html",
       "AssetKind": "All",
@@ -2567,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\blog\\enviar-5.html"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Blog-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Blog-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Blog-Template.css",
       "AssetKind": "All",
@@ -2584,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Blog-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Contacto.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Contacto.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Contacto.css",
       "AssetKind": "All",
@@ -2601,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Contacto.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\dispo.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\dispo.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/dispo.css",
       "AssetKind": "All",
@@ -2618,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\dispo.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Disponibilidad.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Disponibilidad.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Disponibilidad.css",
       "AssetKind": "All",
@@ -2635,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Disponibilidad.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Home.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Home.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Home.css",
       "AssetKind": "All",
@@ -2652,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\0fd3416c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\0fd3416c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/0fd3416c.jpeg",
       "AssetKind": "All",
@@ -2669,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\0fd3416c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "AssetKind": "All",
@@ -2686,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\68f64b9d.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\68f64b9d.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/68f64b9d.jpeg",
       "AssetKind": "All",
@@ -2703,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\68f64b9d.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\8ad73f3c.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\8ad73f3c.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/8ad73f3c.jpeg",
       "AssetKind": "All",
@@ -2720,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\8ad73f3c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\back-view-crowd-fans-watching-7.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/back-view-crowd-fans-watching-7.jpg",
       "AssetKind": "All",
@@ -2737,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\default-logo.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\default-logo.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/default-logo.png",
       "AssetKind": "All",
@@ -2754,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\default-logo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Deluxe-1.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Deluxe-1.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/Deluxe-1.jpg",
       "AssetKind": "All",
@@ -2771,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\Deluxe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\deluxe-room-double-bed-02_wide.jpg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/deluxe-room-double-bed-02_wide.jpg",
       "AssetKind": "All",
@@ -2788,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\descarga.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\descarga.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/descarga.jpeg",
       "AssetKind": "All",
@@ -2805,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\descarga.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\images.jpeg",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\images.jpeg",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/images.jpeg",
       "AssetKind": "All",
@@ -2822,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Logo-UniversitariadeColombia.png",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Logo-UniversitariadeColombia.png",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/images/Logo-UniversitariadeColombia.png",
       "AssetKind": "All",
@@ -2839,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/intlTelInput/intlTelInput.css",
       "AssetKind": "All",
@@ -2856,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.min.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.min.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/intlTelInput/intlTelInput.min.js",
       "AssetKind": "All",
@@ -2873,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\utils.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\utils.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/intlTelInput/utils.js",
       "AssetKind": "All",
@@ -2890,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\intlTelInput\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\jquery.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\jquery.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/jquery.js",
       "AssetKind": "All",
@@ -2907,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\main.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\main.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/main.css",
       "AssetKind": "All",
@@ -2924,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\main.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\main.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/main.js",
       "AssetKind": "All",
@@ -2941,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/nicepage.css",
       "AssetKind": "All",
@@ -2958,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\nicepage.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.js",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.js",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/nicepage.js",
       "AssetKind": "All",
@@ -2975,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\nicepage.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Post-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Post-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Post-Template.css",
       "AssetKind": "All",
@@ -2992,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Post-Template.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Quick-search.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Quick-search.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Quick-search.css",
       "AssetKind": "All",
@@ -3009,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Quick-search.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Thank-You-Page-Template.css",
+      "Identity": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Thank-You-Page-Template.css",
       "SourceId": "HotelUColombia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\",
       "BasePath": "_content/HotelUColombia",
       "RelativePath": "Users/Thank-You-Page-Template.css",
       "AssetKind": "All",

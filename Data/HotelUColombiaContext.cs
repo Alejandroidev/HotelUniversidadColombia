@@ -20,6 +20,8 @@ namespace HotelUColombia.Data
         public DbSet<Rooms> Rooms { get; set; } = default!;
         public DbSet<StatusBooking> StatusBooking { get; set; } = default!;
         public DbSet<User> User { get; set; } = default!;
+        public DbSet<QuickSearch> QuickSearch { get; set; } = default!;
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

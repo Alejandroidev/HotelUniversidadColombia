@@ -34,6 +34,27 @@ namespace HotelUColombia
         }
         #endregion
 
+        #region Create cliente
+        /// <summary>
+        /// Crea la informacion del cliente traide del front
+        /// </summary>
+        /// <param name="client">client</param>
+        /// <returns>retorna la vista de home si no hay formulario, si hay formulario retorna la vista de quick search</returns>
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CreateQuickSearch([Bind("pickUp,pickDown,Create,IdTypeRoom")] QuickSearch quickSearch)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _context.Add(quickSearch);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Disponibilidad));
+            }
+            return View(quickSearch);
+        }
+        #endregion
+
         #region details
         /// <summary>
         /// Method <c>Details</c> trae el detalle de un cliente individual

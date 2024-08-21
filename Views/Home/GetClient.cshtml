@@ -61,10 +61,14 @@
                                                 <th>
                                                     @Html.DisplayNameFor(model => model.Name)
                                                 </th>
+
+                                                <th>
+                                                    @Html.DisplayNameFor(model => model.Name)
+                                                </th>
                                                 <th>
                                                     @Html.DisplayNameFor(model => model.LastName)
                                                 </th>
-                                                <th>
+                                                <th style="padding:10px">
                                                     @Html.DisplayNameFor(model => model.Phone)
                                                 </th>
                                                 <th>
@@ -79,20 +83,30 @@
                                             {
                                                 <tr>
                                                     <td>
+                                                        @Html.DisplayFor(modelItem => item.Id)
+                                                    </td>
+                                                    <td>
                                                         @Html.DisplayFor(modelItem => item.Name)
                                                     </td>
                                                     <td>
                                                         @Html.DisplayFor(modelItem => item.LastName)
                                                     </td>
-                                                    <td>
+                                                    <td style="padding:10px">
                                                         @Html.DisplayFor(modelItem => item.Phone)
                                                     </td>
                                                     <td>
                                                         @Html.DisplayFor(modelItem => item.Email)
                                                     </td>
+              
+                                                </tr>
+                                                <tr>
                                                     <td>
                                                         <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                                    </td>
+                                                    <td>
                                                         <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                                    </td>
+                                                    <td>
                                                         <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                                                     </td>
                                                 </tr>

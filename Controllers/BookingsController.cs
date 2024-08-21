@@ -57,8 +57,19 @@ namespace HotelUColombia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdRoom,IdCliente,PickUpDate,ReturnDate,CreatedDate,ValorDaily,IdStatus,IdUsuario,Id")] Booking booking)
+        public async Task<IActionResult> Create(int idRoom)
         {
+            Booking booking = new()
+            {
+                IdRoom = idRoom,
+
+                IdStatus = 1,
+                IdUsuario = 1,
+                IdCliente = _context.Client.Last().Id
+
+            };
+
+            //[Bind("IdRoom,IdCliente,PickUpDate,ReturnDate,CreatedDate,ValorDaily,IdStatus,IdUsuario,Id")] Booking booking
             if (ModelState.IsValid)
             {
                 _context.Add(booking);

@@ -1,13 +1,8 @@
-﻿@model IEnumerable<HotelUColombia.Models.Booking>
+﻿@model IEnumerable<HotelUColombia.Models.Rooms>
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    string urlRoom = "https://localhost:7064/Rooms/Details/{0}";
-    string urlcliente = "https://localhost:7064/Home/Details/{0}";
-    string urlstaus = "https://localhost:7064/statusbookings/Details/{0}";
-
-
 }
 
 
@@ -47,29 +42,30 @@
     <thead>
         <tr>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdRoom)|
+                @Html.DisplayNameFor(model => model.Id)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdCliente)|
+                @Html.DisplayNameFor(model => model.Category)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.PickUpDate)|
+                @Html.DisplayNameFor(model => model.TV)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.ReturnDate)|
+                @Html.DisplayNameFor(model => model.Bathroom)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.CreatedDate)|
+                @Html.DisplayNameFor(model => model.Freezer)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.ValorTotal)|
+                @Html.DisplayNameFor(model => model.NumberBeds)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdStatus)|
+                @Html.DisplayNameFor(model => model.Image)|
             </th>
             <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdUsuario)|
+                @Html.DisplayNameFor(model => model.Price)|
             </th>
+
             <th></th>
         </tr>
     </thead>
@@ -78,30 +74,30 @@
         {
             <tr>
                 <td style="padding-left:25px">
-                    <a href="@string.Format(urlRoom,item.IdRoom)">@Html.DisplayFor(modelItem => item.IdRoom)</a>
+                    @Html.DisplayFor(modelItem => item.Id)
                 </td>
                 <td style="padding-left:25px">
-                    <a href="@string.Format(urlcliente,item.IdCliente)">@Html.DisplayFor(modelItem => item.IdCliente)</a>
+                    @Html.DisplayFor(modelItem => item.Category)
                 </td>
                 <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.PickUpDate)
+                    @Html.DisplayFor(modelItem => item.TV)
                 </td>
                 <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.ReturnDate)
+                    @Html.DisplayFor(modelItem => item.Bathroom)
                 </td>
                 <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.CreatedDate)
+                    @Html.DisplayFor(modelItem => item.Freezer)
                 </td>
                 <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.ValorTotal)
+                    @Html.DisplayFor(modelItem => item.NumberBeds)
                 </td>
                 <td style="padding-left:25px">
-                    <a href="@string.Format(urlstaus,item.IdStatus)"> @Html.DisplayFor(modelItem => item.IdStatus)</a>
-                   
+                    @Html.DisplayFor(modelItem => item.Image)
                 </td>
                 <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.IdUsuario)
+                    @Html.DisplayFor(modelItem => item.Price)
                 </td>
+
                 <td style="padding-left:25px">
                     <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.Id">Details</a> |

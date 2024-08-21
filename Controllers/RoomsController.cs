@@ -19,6 +19,12 @@ namespace HotelUColombia.Controllers
             _context = context;
         }
 
+        #region get rooms
+        /// <summary>
+        /// get rooms byid
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         // GET: Rooms
         public async Task<IActionResult> Index(int id)
         {
@@ -38,7 +44,9 @@ namespace HotelUColombia.Controllers
 
 
         }
+        #endregion
 
+        #region Details
         // GET: Rooms/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -56,7 +64,9 @@ namespace HotelUColombia.Controllers
 
             return View(rooms);
         }
+        #endregion
 
+        #region Create room
         // GET: Rooms/Create
         public IActionResult Create()
         {
@@ -78,7 +88,9 @@ namespace HotelUColombia.Controllers
             }
             return View(rooms);
         }
+        #endregion
 
+        #region Edit room
         // GET: Rooms/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -94,7 +106,9 @@ namespace HotelUColombia.Controllers
             }
             return View(rooms);
         }
+        #endregion
 
+        #region Edit room
         // POST: Rooms/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -129,7 +143,26 @@ namespace HotelUColombia.Controllers
             }
             return View(rooms);
         }
+        #endregion
 
+        // POST: Bookings/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CreateBooking([Bind("IdRoom,IdCliente,PickUpDate,ReturnDate,CreatedDate,ValorDaily,IdStatus,IdUsuario,Id")] Booking booking)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _context.Add(booking);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(booking);
+        }
+
+        #region delete room
         // GET: Rooms/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -147,7 +180,9 @@ namespace HotelUColombia.Controllers
 
             return View(rooms);
         }
+        #endregion
 
+        #region
         // POST: Rooms/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
@@ -166,6 +201,7 @@ namespace HotelUColombia.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        #endregion
 
         private bool RoomsExists(int id)
         {

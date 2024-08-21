@@ -44,6 +44,17 @@ public class HotelUColombiaContextSeed
             }
             #endregion
 
+            #region Seed staus data
+            // aca agregamos 3 tipos de habitacions
+            if (!await generalContext.StatusBooking.AnyAsync())
+            {
+                await generalContext.StatusBooking.AddRangeAsync(
+                GetPreconfiguredStatus());
+
+                await generalContext.SaveChangesAsync();
+            }
+            #endregion
+
         }
         catch (Exception ex)
         {
@@ -127,6 +138,24 @@ public class HotelUColombiaContextSeed
                 }
             };
     }
+
+    public static IEnumerable<StatusBooking> GetPreconfiguredStatus()
+    {
+        return new List<StatusBooking>
+            {
+                new StatusBooking
+                {
+                    Status = "Reservado",
+
+                },
+                new StatusBooking
+                {
+                    Status = "Cancelado",
+
+                }
+            };
+    }
+
 
 
 
