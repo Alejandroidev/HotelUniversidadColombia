@@ -3,8 +3,37 @@
 @{
     ViewData["Title"] = "Details";
     Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Acerca de</title>
+    <link rel="stylesheet" href="main.css" media="screen">
+    <link rel="stylesheet" href="Acerca-de.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="main.js" defer=""></script>
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
 
+
+
+    <script type="application/ld+json">
+        {
+                "context": "http://schema.org",
+                "type": "Organization",
+                "name": "CatCodeStudio",
+                "logo": "images/Logo-UniversitariadeColombia.png",
+                "sameAs": []
+        }</script>
+    <meta name="theme-color" content="#29b7dd">
+    <meta property="og:title" content="Acerca de">
+    <meta property="og:type" content="website">
+    <meta data-intl-tel-input-cdn-path="intlTelInput/">
+</head>
+
+<body>
 <h1>Details</h1>
 
 <div>
@@ -65,3 +94,4 @@
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>
+</body>

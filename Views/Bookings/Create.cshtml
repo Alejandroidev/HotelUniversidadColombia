@@ -1,9 +1,17 @@
 ﻿@model HotelUColombia.Models.Booking
 
 @{
-    ViewData["Title"] = "Create";
-    Layout = null;
+    ViewData["Title"] = "Create Booking";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<head>
+    <link rel="stylesheet" href="main.css" media="screen">
+    <link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="main.js" defer=""></script>
+</head>
+<body>
+
 
 <h1>Create</h1>
 
@@ -64,3 +72,4 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
+</body>
