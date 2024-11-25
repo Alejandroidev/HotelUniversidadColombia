@@ -263,7 +263,6 @@ C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\V
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutE.cshtml.rz.scp.css
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\bundle\HotelUColombia.styles.css
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\projectbundle\HotelUColombia.bundle.scp.css
-C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.csproj.CopyComplete
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.dll
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\refint\HotelUColombia.dll
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.pdb
@@ -540,3 +539,5 @@ C:\Users\USER\source\repos\U\HotelUniversidadColombia\obj\Debug\net6.0\HotelUCol
 C:\Users\USER\source\repos\U\HotelUniversidadColombia\obj\Debug\net6.0\ref\HotelUColombia.dll
 C:\Users\USER\source\repos\U\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\USER\source\repos\U\HotelUniversidadColombia\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutE.cshtml.rz.scp.css
+C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.sourcelink.json
+C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUCo.36518232.Up2Date

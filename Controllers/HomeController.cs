@@ -289,7 +289,7 @@ namespace HotelUColombia
         /// <returns>vista de disponibilidad</returns>
         [Route("Home")]
         [Route("Home/QuickSearch/{id}")]
-        [HttpGet]      
+        [HttpGet("Reservar")]      
         public IActionResult QuickSearch(DateTime indexDay, DateTime returnDay, int typeRoom)
         {            
             if (typeRoom > 0)
@@ -300,19 +300,15 @@ namespace HotelUColombia
                 var totalPrice = rooms.Price * dia;
                 var id = _context.Client.ToList();
 
-                Booking booking = new()
-                {
-                    CreatedDate = DateTime.Now,
-                    IdRoom = typeRoom,
-                    IdStatus = 1,
-                    PickUpDate = indexDay,
-                    ReturnDate = returnDay,
-                    IdCliente = id.LastOrDefault().Id,
-                    IdUsuario = 0,
-                    ValorTotal = totalPrice
-                };
 
-                _context.Booking.Add(booking);
+                QuickSearch quickSearch = new() 
+                {
+                    Create = DateTime.Now,
+                    IdTypeRoom = typeRoom,
+                    pickUp = indexDay,
+                    pickDown = returnDay
+                };
+                _context.QuickSearch.Add(quickSearch);
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Disponibilidad));
             }
@@ -344,5 +340,24 @@ namespace HotelUColombia
                         Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
         }
         #endregion
+
+        // GET: Clients
+        [HttpGet("GetClient")]
+        public async Task<IActionResult> GetClient(int id)
+        {
+            if (id == 0)
+            {
+                return _context.Client != null ?
+                        View( _context.Client.ToList().OrderByDescending(a => a.Id)) :
+                        Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
+            }
+
+
+            return _context.Client != null ?
+            View(_context.Client.ToListAsync().Result.Where(a => a.Id == id)) :
+            Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
+
+
+        }
     }
 }

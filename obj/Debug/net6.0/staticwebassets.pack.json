@@ -1,720 +1,684 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelUColombia.bundle.scp.css",
       "PackagePath": "staticwebassets\\HotelUColombia.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Acerca-de.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Acerca-de.css",
       "PackagePath": "staticwebassets\\Acerca-de.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Blog-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Blog-Template.css",
       "PackagePath": "staticwebassets\\Blog-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Acerca-de.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Acerca-de.css",
       "PackagePath": "staticwebassets\\Bookings\\Acerca-de.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Blog-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Blog-Template.css",
       "PackagePath": "staticwebassets\\Bookings\\Blog-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Contacto.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Contacto.css",
       "PackagePath": "staticwebassets\\Bookings\\Contacto.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Disponibilidad.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Disponibilidad.css",
       "PackagePath": "staticwebassets\\Bookings\\Disponibilidad.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Home.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Home.css",
       "PackagePath": "staticwebassets\\Bookings\\Home.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Post-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Post-Template.css",
       "PackagePath": "staticwebassets\\Bookings\\Post-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Quick-search.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Quick-search.css",
       "PackagePath": "staticwebassets\\Bookings\\Quick-search.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\Thank-You-Page-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\Thank-You-Page-Template.css",
       "PackagePath": "staticwebassets\\Bookings\\Thank-You-Page-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\blog.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\blog.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\blog.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-1.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-1.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar-1.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-2.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-2.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar-2.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-3.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-3.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar-3.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-4.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-4.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar-4.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-5.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar-5.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar-5.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\blog\\enviar.html",
       "PackagePath": "staticwebassets\\Bookings\\blog\\enviar.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\dispo.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\dispo.css",
       "PackagePath": "staticwebassets\\Bookings\\dispo.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\0fd3416c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\0fd3416c.jpeg",
       "PackagePath": "staticwebassets\\Bookings\\images\\0fd3416c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "PackagePath": "staticwebassets\\Bookings\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\68f64b9d.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\68f64b9d.jpeg",
       "PackagePath": "staticwebassets\\Bookings\\images\\68f64b9d.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\8ad73f3c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\8ad73f3c.jpeg",
       "PackagePath": "staticwebassets\\Bookings\\images\\8ad73f3c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Deluxe-1.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Deluxe-1.jpg",
       "PackagePath": "staticwebassets\\Bookings\\images\\Deluxe-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Logo-UniversitariadeColombia.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\Logo-UniversitariadeColombia.png",
       "PackagePath": "staticwebassets\\Bookings\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg",
       "PackagePath": "staticwebassets\\Bookings\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\default-logo.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\default-logo.png",
       "PackagePath": "staticwebassets\\Bookings\\images\\default-logo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg",
       "PackagePath": "staticwebassets\\Bookings\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\descarga.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\descarga.jpeg",
       "PackagePath": "staticwebassets\\Bookings\\images\\descarga.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\images.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\images\\images.jpeg",
       "PackagePath": "staticwebassets\\Bookings\\images\\images.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.css",
       "PackagePath": "staticwebassets\\Bookings\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.min.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\intlTelInput.min.js",
       "PackagePath": "staticwebassets\\Bookings\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\utils.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\intlTelInput\\utils.js",
       "PackagePath": "staticwebassets\\Bookings\\intlTelInput\\utils.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\jquery.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\jquery.js",
       "PackagePath": "staticwebassets\\Bookings\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.css",
       "PackagePath": "staticwebassets\\Bookings\\main.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\main.js",
       "PackagePath": "staticwebassets\\Bookings\\main.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.css",
       "PackagePath": "staticwebassets\\Bookings\\nicepage.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Bookings\\nicepage.js",
       "PackagePath": "staticwebassets\\Bookings\\nicepage.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Contacto.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Contacto.css",
       "PackagePath": "staticwebassets\\Contacto.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Disponibilidad.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Disponibilidad.css",
       "PackagePath": "staticwebassets\\Disponibilidad.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home.css",
       "PackagePath": "staticwebassets\\Home.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Acerca-de.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Acerca-de.css",
       "PackagePath": "staticwebassets\\Home\\Acerca-de.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Blog-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Blog-Template.css",
       "PackagePath": "staticwebassets\\Home\\Blog-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Contacto.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Contacto.css",
       "PackagePath": "staticwebassets\\Home\\Contacto.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Disponibilidad.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Disponibilidad.css",
       "PackagePath": "staticwebassets\\Home\\Disponibilidad.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Home.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Home.css",
       "PackagePath": "staticwebassets\\Home\\Home.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Post-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Post-Template.css",
       "PackagePath": "staticwebassets\\Home\\Post-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Quick-search.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Quick-search.css",
       "PackagePath": "staticwebassets\\Home\\Quick-search.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\Thank-You-Page-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\Thank-You-Page-Template.css",
       "PackagePath": "staticwebassets\\Home\\Thank-You-Page-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\blog.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\blog.html",
       "PackagePath": "staticwebassets\\Home\\blog\\blog.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-1.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-1.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar-1.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-2.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-2.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar-2.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-3.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-3.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar-3.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-4.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-4.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar-4.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-5.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar-5.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar-5.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\blog\\enviar.html",
       "PackagePath": "staticwebassets\\Home\\blog\\enviar.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\dispo.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\dispo.css",
       "PackagePath": "staticwebassets\\Home\\dispo.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\0fd3416c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\0fd3416c.jpeg",
       "PackagePath": "staticwebassets\\Home\\images\\0fd3416c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "PackagePath": "staticwebassets\\Home\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\68f64b9d.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\68f64b9d.jpeg",
       "PackagePath": "staticwebassets\\Home\\images\\68f64b9d.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\8ad73f3c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\8ad73f3c.jpeg",
       "PackagePath": "staticwebassets\\Home\\images\\8ad73f3c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Deluxe-1.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Deluxe-1.jpg",
       "PackagePath": "staticwebassets\\Home\\images\\Deluxe-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Logo-UniversitariadeColombia.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Imagen de WhatsApp 2024-10-10 a las 17.18.31_4d761ec9.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\Imagen de WhatsApp 2024-10-10 a las 17.18.31_4d761ec9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Logo-UniversitariadeColombia.png",
       "PackagePath": "staticwebassets\\Home\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Lozano.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Lozano.png",
       "PackagePath": "staticwebassets\\Home\\images\\Lozano.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath y yo.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath y yo.png",
       "PackagePath": "staticwebassets\\Home\\images\\Nath y yo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\Nath.png",
       "PackagePath": "staticwebassets\\Home\\images\\Nath.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\back-view-crowd-fans-watching-7.jpg",
       "PackagePath": "staticwebassets\\Home\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\default-logo.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\default-logo.png",
       "PackagePath": "staticwebassets\\Home\\images\\default-logo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\deluxe-room-double-bed-02_wide.jpg",
       "PackagePath": "staticwebassets\\Home\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\descarga.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\descarga.jpeg",
       "PackagePath": "staticwebassets\\Home\\images\\descarga.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\images\\images.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\images\\images.jpeg",
       "PackagePath": "staticwebassets\\Home\\images\\images.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.css",
       "PackagePath": "staticwebassets\\Home\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.min.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\intlTelInput.min.js",
       "PackagePath": "staticwebassets\\Home\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\utils.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\intlTelInput\\utils.js",
       "PackagePath": "staticwebassets\\Home\\intlTelInput\\utils.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\jquery.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\jquery.js",
       "PackagePath": "staticwebassets\\Home\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\main.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\main.css",
       "PackagePath": "staticwebassets\\Home\\main.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\main.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\main.js",
       "PackagePath": "staticwebassets\\Home\\main.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.css",
       "PackagePath": "staticwebassets\\Home\\nicepage.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Home\\nicepage.js",
       "PackagePath": "staticwebassets\\Home\\nicepage.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Post-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Post-Template.css",
       "PackagePath": "staticwebassets\\Post-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Quick-search.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Quick-search.css",
       "PackagePath": "staticwebassets\\Quick-search.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Thank-You-Page-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Acerca-de.css",
+      "PackagePath": "staticwebassets\\Rooms\\Acerca-de.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Blog-Template.css",
+      "PackagePath": "staticwebassets\\Rooms\\Blog-Template.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Contacto.css",
+      "PackagePath": "staticwebassets\\Rooms\\Contacto.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Disponibilidad.css",
+      "PackagePath": "staticwebassets\\Rooms\\Disponibilidad.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Home.css",
+      "PackagePath": "staticwebassets\\Rooms\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Post-Template.css",
+      "PackagePath": "staticwebassets\\Rooms\\Post-Template.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Quick-search.css",
+      "PackagePath": "staticwebassets\\Rooms\\Quick-search.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\Thank-You-Page-Template.css",
+      "PackagePath": "staticwebassets\\Rooms\\Thank-You-Page-Template.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\blog.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-1.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar-1.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-2.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar-2.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-3.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar-3.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-4.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar-4.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar-5.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar-5.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\blog\\enviar.html",
+      "PackagePath": "staticwebassets\\Rooms\\blog\\enviar.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\dispo.css",
+      "PackagePath": "staticwebassets\\Rooms\\dispo.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\0fd3416c.jpeg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\0fd3416c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\68f64b9d.jpeg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\68f64b9d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\8ad73f3c.jpeg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\8ad73f3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\Deluxe-1.jpg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\Deluxe-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\Logo-UniversitariadeColombia.png",
+      "PackagePath": "staticwebassets\\Rooms\\images\\Logo-UniversitariadeColombia.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\back-view-crowd-fans-watching-7.jpg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\back-view-crowd-fans-watching-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\default-logo.png",
+      "PackagePath": "staticwebassets\\Rooms\\images\\default-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\deluxe-room-double-bed-02_wide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\descarga.jpeg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\descarga.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\Rooms\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\intlTelInput.css",
+      "PackagePath": "staticwebassets\\Rooms\\intlTelInput\\intlTelInput.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\intlTelInput.min.js",
+      "PackagePath": "staticwebassets\\Rooms\\intlTelInput\\intlTelInput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\intlTelInput\\utils.js",
+      "PackagePath": "staticwebassets\\Rooms\\intlTelInput\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\jquery.js",
+      "PackagePath": "staticwebassets\\Rooms\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\main.css",
+      "PackagePath": "staticwebassets\\Rooms\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\main.js",
+      "PackagePath": "staticwebassets\\Rooms\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\nicepage.css",
+      "PackagePath": "staticwebassets\\Rooms\\nicepage.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Rooms\\nicepage.js",
+      "PackagePath": "staticwebassets\\Rooms\\nicepage.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Thank-You-Page-Template.css",
       "PackagePath": "staticwebassets\\Thank-You-Page-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Acerca-de.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Acerca-de.css",
       "PackagePath": "staticwebassets\\Users\\Acerca-de.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Blog-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Blog-Template.css",
       "PackagePath": "staticwebassets\\Users\\Blog-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Contacto.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Contacto.css",
       "PackagePath": "staticwebassets\\Users\\Contacto.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Disponibilidad.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Disponibilidad.css",
       "PackagePath": "staticwebassets\\Users\\Disponibilidad.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Home.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Home.css",
       "PackagePath": "staticwebassets\\Users\\Home.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Post-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Post-Template.css",
       "PackagePath": "staticwebassets\\Users\\Post-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Quick-search.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Quick-search.css",
       "PackagePath": "staticwebassets\\Users\\Quick-search.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\Thank-You-Page-Template.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\Thank-You-Page-Template.css",
       "PackagePath": "staticwebassets\\Users\\Thank-You-Page-Template.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\blog.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\blog.html",
       "PackagePath": "staticwebassets\\Users\\blog\\blog.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-1.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-1.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar-1.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-2.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-2.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar-2.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-3.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-3.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar-3.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-4.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-4.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar-4.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-5.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar-5.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar-5.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\blog\\enviar.html",
       "PackagePath": "staticwebassets\\Users\\blog\\enviar.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\dispo.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\dispo.css",
       "PackagePath": "staticwebassets\\Users\\dispo.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\0fd3416c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\0fd3416c.jpeg",
       "PackagePath": "staticwebassets\\Users\\images\\0fd3416c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
       "PackagePath": "staticwebassets\\Users\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\68f64b9d.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\68f64b9d.jpeg",
       "PackagePath": "staticwebassets\\Users\\images\\68f64b9d.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\8ad73f3c.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\8ad73f3c.jpeg",
       "PackagePath": "staticwebassets\\Users\\images\\8ad73f3c.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Deluxe-1.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Deluxe-1.jpg",
       "PackagePath": "staticwebassets\\Users\\images\\Deluxe-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Logo-UniversitariadeColombia.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\Logo-UniversitariadeColombia.png",
       "PackagePath": "staticwebassets\\Users\\images\\Logo-UniversitariadeColombia.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\back-view-crowd-fans-watching-7.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\back-view-crowd-fans-watching-7.jpg",
       "PackagePath": "staticwebassets\\Users\\images\\back-view-crowd-fans-watching-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\default-logo.png",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\default-logo.png",
       "PackagePath": "staticwebassets\\Users\\images\\default-logo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\deluxe-room-double-bed-02_wide.jpg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\deluxe-room-double-bed-02_wide.jpg",
       "PackagePath": "staticwebassets\\Users\\images\\deluxe-room-double-bed-02_wide.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\descarga.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\descarga.jpeg",
       "PackagePath": "staticwebassets\\Users\\images\\descarga.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\images\\images.jpeg",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\images\\images.jpeg",
       "PackagePath": "staticwebassets\\Users\\images\\images.jpeg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.css",
       "PackagePath": "staticwebassets\\Users\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.min.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\intlTelInput.min.js",
       "PackagePath": "staticwebassets\\Users\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\utils.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\intlTelInput\\utils.js",
       "PackagePath": "staticwebassets\\Users\\intlTelInput\\utils.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\jquery.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\jquery.js",
       "PackagePath": "staticwebassets\\Users\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\main.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\main.css",
       "PackagePath": "staticwebassets\\Users\\main.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\main.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\main.js",
       "PackagePath": "staticwebassets\\Users\\main.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.css",
       "PackagePath": "staticwebassets\\Users\\nicepage.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\Users\\nicepage.js",
       "PackagePath": "staticwebassets\\Users\\nicepage.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\blog.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\blog.html",
       "PackagePath": "staticwebassets\\blog\\blog.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-1.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-1.html",
       "PackagePath": "staticwebassets\\blog\\enviar-1.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-2.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-2.html",
       "PackagePath": "staticwebassets\\blog\\enviar-2.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-3.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-3.html",
       "PackagePath": "staticwebassets\\blog\\enviar-3.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-4.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-4.html",
       "PackagePath": "staticwebassets\\blog\\enviar-4.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-5.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar-5.html",
       "PackagePath": "staticwebassets\\blog\\enviar-5.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\blog\\enviar.html",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\blog\\enviar.html",
       "PackagePath": "staticwebassets\\blog\\enviar.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\dispo.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\dispo.css",
       "PackagePath": "staticwebassets\\dispo.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\0fd3416c.jpeg",
-      "PackagePath": "staticwebassets\\images\\0fd3416c.jpeg"
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\images\\Imagen de WhatsApp 2024-10-10 a las 17.18.31_4d761ec9.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagen de WhatsApp 2024-10-10 a las 17.18.31_4d761ec9.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
-      "PackagePath": "staticwebassets\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\68f64b9d.jpeg",
-      "PackagePath": "staticwebassets\\images\\68f64b9d.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\8ad73f3c.jpeg",
-      "PackagePath": "staticwebassets\\images\\8ad73f3c.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\Deluxe-1.jpg",
-      "PackagePath": "staticwebassets\\images\\Deluxe-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\Logo-UniversitariadeColombia.png",
-      "PackagePath": "staticwebassets\\images\\Logo-UniversitariadeColombia.png"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\back-view-crowd-fans-watching-7.jpg",
-      "PackagePath": "staticwebassets\\images\\back-view-crowd-fans-watching-7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\default-logo.png",
-      "PackagePath": "staticwebassets\\images\\default-logo.png"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\deluxe-room-double-bed-02_wide.jpg",
-      "PackagePath": "staticwebassets\\images\\deluxe-room-double-bed-02_wide.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\descarga.jpeg",
-      "PackagePath": "staticwebassets\\images\\descarga.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\images\\images.jpeg",
-      "PackagePath": "staticwebassets\\images\\images.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.css",
       "PackagePath": "staticwebassets\\intlTelInput\\intlTelInput.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.min.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\intlTelInput.min.js",
       "PackagePath": "staticwebassets\\intlTelInput\\intlTelInput.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\utils.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\intlTelInput\\utils.js",
       "PackagePath": "staticwebassets\\intlTelInput\\utils.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\jquery.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\jquery.js",
       "PackagePath": "staticwebassets\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\main.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\main.css",
       "PackagePath": "staticwebassets\\main.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\main.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\main.js",
       "PackagePath": "staticwebassets\\main.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\nicepage.css",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\nicepage.css",
       "PackagePath": "staticwebassets\\nicepage.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\nicepage.js",
+      "Id": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\wwwroot\\nicepage.js",
       "PackagePath": "staticwebassets\\nicepage.js"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Acerca-de.css",
-      "PackagePath": "staticwebassets\\rooms\\Acerca-de.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Blog-Template.css",
-      "PackagePath": "staticwebassets\\rooms\\Blog-Template.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Contacto.css",
-      "PackagePath": "staticwebassets\\rooms\\Contacto.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Disponibilidad.css",
-      "PackagePath": "staticwebassets\\rooms\\Disponibilidad.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Home.css",
-      "PackagePath": "staticwebassets\\rooms\\Home.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Post-Template.css",
-      "PackagePath": "staticwebassets\\rooms\\Post-Template.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Quick-search.css",
-      "PackagePath": "staticwebassets\\rooms\\Quick-search.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\Thank-You-Page-Template.css",
-      "PackagePath": "staticwebassets\\rooms\\Thank-You-Page-Template.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\blog.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\blog.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-1.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar-1.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-2.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar-2.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-3.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar-3.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-4.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar-4.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar-5.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar-5.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\blog\\enviar.html",
-      "PackagePath": "staticwebassets\\rooms\\blog\\enviar.html"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\dispo.css",
-      "PackagePath": "staticwebassets\\rooms\\dispo.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\0fd3416c.jpeg",
-      "PackagePath": "staticwebassets\\rooms\\images\\0fd3416c.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg",
-      "PackagePath": "staticwebassets\\rooms\\images\\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\68f64b9d.jpeg",
-      "PackagePath": "staticwebassets\\rooms\\images\\68f64b9d.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\8ad73f3c.jpeg",
-      "PackagePath": "staticwebassets\\rooms\\images\\8ad73f3c.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\Deluxe-1.jpg",
-      "PackagePath": "staticwebassets\\rooms\\images\\Deluxe-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\Logo-UniversitariadeColombia.png",
-      "PackagePath": "staticwebassets\\rooms\\images\\Logo-UniversitariadeColombia.png"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\back-view-crowd-fans-watching-7.jpg",
-      "PackagePath": "staticwebassets\\rooms\\images\\back-view-crowd-fans-watching-7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\default-logo.png",
-      "PackagePath": "staticwebassets\\rooms\\images\\default-logo.png"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\deluxe-room-double-bed-02_wide.jpg",
-      "PackagePath": "staticwebassets\\rooms\\images\\deluxe-room-double-bed-02_wide.jpg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\descarga.jpeg",
-      "PackagePath": "staticwebassets\\rooms\\images\\descarga.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\images\\images.jpeg",
-      "PackagePath": "staticwebassets\\rooms\\images\\images.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\intlTelInput.css",
-      "PackagePath": "staticwebassets\\rooms\\intlTelInput\\intlTelInput.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\intlTelInput.min.js",
-      "PackagePath": "staticwebassets\\rooms\\intlTelInput\\intlTelInput.min.js"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\intlTelInput\\utils.js",
-      "PackagePath": "staticwebassets\\rooms\\intlTelInput\\utils.js"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\jquery.js",
-      "PackagePath": "staticwebassets\\rooms\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\main.css",
-      "PackagePath": "staticwebassets\\rooms\\main.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\main.js",
-      "PackagePath": "staticwebassets\\rooms\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\nicepage.css",
-      "PackagePath": "staticwebassets\\rooms\\nicepage.css"
-    },
-    {
-      "Id": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\wwwroot\\rooms\\nicepage.js",
-      "PackagePath": "staticwebassets\\rooms\\nicepage.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelUColombia.Microsoft.AspNetCore.StaticWebAssets.props",

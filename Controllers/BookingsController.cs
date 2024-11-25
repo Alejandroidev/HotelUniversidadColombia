@@ -27,6 +27,39 @@ namespace HotelUColombia.Controllers
                         Problem("Entity set 'HotelUColombiaContext.Booking'  is null.");
         }
 
+        [HttpPost]
+        public async Task<IActionResult> SaveReservation(int id)
+        {
+            var itineratio = _context.QuickSearch.ToList().Last();
+
+
+            TimeSpan dias = itineratio.pickDown - itineratio.pickUp;
+            int dia = dias.Days;
+            var rooms = _context.Rooms.ToList().Where(room => room.Id == id).FirstOrDefault();
+            var totalPrice = rooms.Price * dia;
+            var client = _context.Client.ToList();
+
+            // Crear una nueva reserva
+            var reservation = new Booking
+            {
+                CreatedDate = DateTime.Now,
+                IdRoom = id,
+                IdStatus = 1,
+                PickUpDate = itineratio.pickUp,
+                ReturnDate = itineratio.pickDown,
+                IdCliente = client.LastOrDefault().Id,
+                IdUsuario = 0,
+                ValorTotal = totalPrice
+            };
+
+            // Guardar la reserva en la base de datos
+            _context.Booking.Add(reservation);
+            _context.SaveChanges();
+
+            return Ok(new { message = "Reserva guardada correctamente." });
+        }
+    
+
         // GET: Bookings/Details/5
         public async Task<IActionResult> Details(int? id)
         {

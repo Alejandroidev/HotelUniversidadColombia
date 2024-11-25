@@ -31,6 +31,11 @@
     <meta property="og:title" content="dispo">
     <meta property="og:type" content="website">
     <meta data-intl-tel-input-cdn-path="intlTelInput/">
+    <!-- CSS de SweetAlert2 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+
+    <!-- JS de SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 
 
@@ -117,21 +122,21 @@
                                         </div>&nbsp;@item.NumberBeds Camas
                                     </li>
                                 </ul>
-                                <a href="https://localhost:7064/Bookings/Index" class="u-btn u-button-style u-palette-1-light-3 u-btn-1">Reserva Ahora!</a>
+                                <button class="btnReservar u-btn u-button-style u-palette-1-light-3 u-btn-1" data-room-id="@item.Id">Reservar</button>
                             </div>
                         </div>
                         <div class="u-align-left u-container-style u-tab-pane u-white u-tab-pane-2" id="tab-14b7" role="tabpanel" aria-labelledby="link-tab-14b7">
                             <div class="u-container-layout u-valign-top u-container-layout-2">
                                 <p class="u-text u-text-default u-text-2">
-                                    Sample text. Click to select the text box. Click again or double click to start editing the text. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
-                                    <br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                    ideal para personas que vienen por trabajo<br>
+                                    <br>tiene todo lo basico para pasar una noche tranquilo
                                 </p>
                             </div>
                         </div>
                         <div class="u-container-style u-tab-pane u-white u-tab-pane-3" id="tab-2917" role="tabpanel" aria-labelledby="link-tab-2917">
                             <div class="u-container-layout u-container-layout-3">
-                                <h4 class="u-text u-text-default u-text-3">Be The First To Review This Product!</h4>
-                                <p class="u-text u-text-default u-text-4">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                                <h4 class="u-text u-text-default u-text-3">Una descripcion mas!</h4>
+                                <p class="u-text u-text-default u-text-4">no se que mas poner.</p>
                                 <a href="" class="u-btn u-button-style u-btn-2">write product review</a>
                             </div>
                         </div>
@@ -142,3 +147,39 @@
     </body>
 }
 </html>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    $(document).ready(function () {
+        $(".btnReservar").click(function () {
+            // Obtener el ID de la habitación del atributo 'data-room-id'
+            var roomId = $(this).data("room-id");
+
+            // Enviar solicitud AJAX
+            $.ajax({
+                url: '/Bookings/SaveReservation', // Ruta de tu acción en el controlador
+                type: 'POST',
+                data: { id: roomId },
+                success: function (response) {
+                    // Mostrar pop-up de éxito
+                    Swal.fire({
+                        title: '¡Reservado con éxito!',
+                        text: response.message,
+                        icon: 'success',
+                        confirmButtonText: 'Aceptar'
+                    });
+                },
+                error: function (xhr, status, error) {
+                    // Mostrar pop-up de error
+                    Swal.fire({
+                        title: 'Error',
+                        text: 'No se pudo completar la reserva. Intenta nuevamente.',
+                        icon: 'error',
+                        confirmButtonText: 'Aceptar'
+                    });
+                }
+            });
+        });
+    });
+</script>

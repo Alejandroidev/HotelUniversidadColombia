@@ -7,6 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Presentacion\**" />
+    <Content Remove="Presentacion\**" />
+    <EmbeddedResource Remove="Presentacion\**" />
+    <None Remove="Presentacion\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\0fd3416c.jpeg" />
+    <Content Remove="wwwroot\images\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg" />
+    <Content Remove="wwwroot\images\68f64b9d.jpeg" />
+    <Content Remove="wwwroot\images\8ad73f3c.jpeg" />
+    <Content Remove="wwwroot\images\back-view-crowd-fans-watching-7.jpg" />
+    <Content Remove="wwwroot\images\default-logo.png" />
+    <Content Remove="wwwroot\images\Deluxe-1.jpg" />
+    <Content Remove="wwwroot\images\deluxe-room-double-bed-02_wide.jpg" />
+    <Content Remove="wwwroot\images\descarga.jpeg" />
+    <Content Remove="wwwroot\images\images.jpeg" />
+    <Content Remove="wwwroot\images\Logo-UniversitariadeColombia.png" />
     <Content Remove="wwwroot\images\Lozano.png" />
     <Content Remove="wwwroot\images\Nath y yo.png" />
     <Content Remove="wwwroot\images\Nath.png" />
@@ -96,6 +114,9 @@
     <None Include="wwwroot\Home\Post-Template.css" />
     <None Include="wwwroot\Home\Quick-search.css" />
     <None Include="wwwroot\Home\Thank-You-Page-Template.css" />
+    <None Include="wwwroot\Home\images\Lozano.png" />
+    <None Include="wwwroot\Home\images\Nath y yo.png" />
+    <None Include="wwwroot\Home\images\Nath.png" />
     <None Include="wwwroot\images\0fd3416c.jpeg" />
     <None Include="wwwroot\images\21af19e0a06068fd717bda5d53fbc03efac96151483aac3811c21d8e7d5b87075352a481488104b8df55600bb32ec4eb4d3671f0c0fe5ec86cdf26_1280.jpg" />
     <None Include="wwwroot\images\68f64b9d.jpeg" />
@@ -107,9 +128,6 @@
     <None Include="wwwroot\images\descarga.jpeg" />
     <None Include="wwwroot\images\images.jpeg" />
     <None Include="wwwroot\images\Logo-UniversitariadeColombia.png" />
-    <None Include="wwwroot\Home\images\Lozano.png" />
-    <None Include="wwwroot\Home\images\Nath y yo.png" />
-    <None Include="wwwroot\Home\images\Nath.png" />
     <None Include="wwwroot\images\Lozano.png" />
     <None Include="wwwroot\images\Nath y yo.png" />
     <None Include="wwwroot\images\Nath.png" />
@@ -213,10 +231,6 @@
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Presentacion\Properties\" />
   </ItemGroup>
 
 </Project>

@@ -19,11 +19,6 @@
     <meta name="referrer" content="origin">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
-
-
-
-
-
     <script type="application/ld+json">
         {
                 "context": "http://schema.org",
@@ -52,64 +47,75 @@
                         <div class="u-container-align-center u-container-style u-layout-cell u-size-38 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
                             <div class="u-container-layout u-valign-top u-container-layout-2">
                                 <div class="u-form u-form-1">
+                                    <form method="get" asp-action="GetClient">
+                                        <label for="id">Buscar por ID:</label>
+                                        <input type="number" name="id" id="id" />
+                                        <button type="submit">Buscar</button>
+                                    </form>
                                     <p>
                                         <a asp-action="Create">Create New</a>
                                     </p>
                                     <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>
-                                                    @Html.DisplayNameFor(model => model.Name)
-                                                </th>
-
-                                                <th>
-                                                    @Html.DisplayNameFor(model => model.Name)
-                                                </th>
-                                                <th>
-                                                    @Html.DisplayNameFor(model => model.LastName)
-                                                </th>
-                                                <th style="padding:10px">
-                                                    @Html.DisplayNameFor(model => model.Phone)
-                                                </th>
-                                                <th>
-                                                    @Html.DisplayNameFor(model => model.Email)
-                                                </th>
-
-                                                <th></th>
-                                            </tr>
-                                        </thead>
                                         <tbody>
-                                            @foreach (var item in Model)
+                                            @if (!Model.Any())
                                             {
                                                 <tr>
-                                                    <td>
-                                                        @Html.DisplayFor(modelItem => item.Id)
-                                                    </td>
-                                                    <td>
-                                                        @Html.DisplayFor(modelItem => item.Name)
-                                                    </td>
-                                                    <td>
-                                                        @Html.DisplayFor(modelItem => item.LastName)
-                                                    </td>
-                                                    <td style="padding:10px">
-                                                        @Html.DisplayFor(modelItem => item.Phone)
-                                                    </td>
-                                                    <td>
-                                                        @Html.DisplayFor(modelItem => item.Email)
-                                                    </td>
-              
+                                                    <td colspan="4">No se encontraron resultados.</td>
                                                 </tr>
-                                                <tr>
-                                                    <td>
-                                                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                                                    </td>
-                                                    <td>
-                                                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                                                    </td>
-                                                    <td>
-                                                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                                                    </td>
-                                                </tr>
+                                            }
+                                            else
+                                            {
+                                                foreach (var item in Model)
+                                                {
+                                                    <tr>
+                                                        <th>
+                                                            @Html.DisplayNameFor(model => model.Id):
+                                                        </th>
+                                                        <td>
+                                                            @Html.DisplayFor(modelItem => item.Id)
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th>
+                                                            @Html.DisplayNameFor(model => model.Name):
+                                                        </th>
+                                                        <td>
+                                                            @Html.DisplayFor(modelItem => item.Name)
+                                                        </td>
+                                                        <th>
+                                                            @Html.DisplayNameFor(model => model.LastName):
+                                                        </th>
+                                                        <td>
+                                                            @Html.DisplayFor(modelItem => item.LastName)
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th style="padding:10px">
+                                                            @Html.DisplayNameFor(model => model.Phone):
+                                                        </th>
+                                                        <td style="padding:10px">
+                                                            @Html.DisplayFor(modelItem => item.Phone)
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th>
+                                                            @Html.DisplayNameFor(model => model.Email):
+                                                        </th>
+                                                        <td>
+                                                            @Html.DisplayFor(modelItem => item.Email)
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> <br>
+                                                            <a asp-action="Details" asp-route-id="@item.Id">Details</a><br>
+                                                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a><br>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="4" style="border-top: 1px solid #ccc; height: 1px;"></td>
+                                                    </tr>
+                                                }
                                             }
                                         </tbody>
                                     </table>
@@ -121,7 +127,6 @@
             </div>
         </div>
     </section>
-
 
     <span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px; padding: 15px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
