@@ -13,44 +13,88 @@
     <link rel="stylesheet" href="/Home/home.css" />
     <link rel="stylesheet" href="/Home/main.css" />
 </head>
-<body>
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Client</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.LastName)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.LastName)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Phone)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Phone)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Email)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Email)
-        </dd>
-    </dl>
-    
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
-</div>
+<body class="u-body u-xl-mode" data-lang="es">
+    <section class="u-align-center u-clearfix u-container-align-center u-palette-2-base u-section-3" id="sec-7af9">
+        <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+            <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+                <div class="u-layout">
+                    <div class="u-layout-row">
+                        <div class="u-container-align-left u-container-style u-layout-cell u-size-22 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                            <div class="u-container-layout u-container-layout-1">
+                                <h3 class="u-align-left u-text u-text-default u-text-1">¡Informacion de Clientes!</h3>
+                                <p class="u-align-left u-text u-text-default u-text-2"> Client Manager (Administrador de Clientes Eliminar)</p>
+                            </div>
+                        </div>
+                        <div class="u-container-align-center u-container-style u-layout-cell u-size-38 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                            <div class="u-container-layout u-valign-top u-container-layout-2">
+                                <div class="u-form u-form-1">
+
+                                    <table class="table">
+                                        <tbody>
+                                        <thead>
+                                            <div class="u-container-layout u-valign-top u-container-layout-2">
+
+                                                <h3>¿Estas seguro que deseas eliminar este cliente?</h3>
+                                                <div>
+                                                    <h4>Client</h4>
+                                                    <hr />
+                                                    <dl class="row">
+                                                        <dt class="col-sm-2">
+                                                                @Html.DisplayNameFor(model => model.Name)
+                                                        </dt>
+                                                        <dd class="col-sm-10">
+                                                                @Html.DisplayFor(model => model.Name)
+                                                        </dd>
+                                                        <dt class="col-sm-2">
+                                                                @Html.DisplayNameFor(model => model.LastName)
+                                                        </dt>
+                                                        <dd class="col-sm-10">
+                                                                @Html.DisplayFor(model => model.LastName)
+                                                        </dd>
+                                                        <dt class="col-sm-2">
+                                                                @Html.DisplayNameFor(model => model.Phone)
+                                                        </dt>
+                                                        <dd class="col-sm-10">
+                                                                @Html.DisplayFor(model => model.Phone)
+                                                        </dd>
+                                                        <dt class="col-sm-2">
+                                                                @Html.DisplayNameFor(model => model.Email)
+                                                        </dt>
+                                                        <dd class="col-sm-10">
+                                                                @Html.DisplayFor(model => model.Email)
+                                                        </dd>
+                                                    </dl>
+
+                                                    <form asp-action="Delete">
+                                                        <input type="hidden" asp-for="Id" />
+                                                        <input type="submit" value="Delete" class="btn btn-danger" /> |
+                                                        <a asp-action="Index">Back to List</a>
+                                                    </form>
+                                                </div>
+                                        </thead>
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px; padding: 15px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
+        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
+        <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
+    </span>
+
 </body>
+
+
 </html>
+
+
