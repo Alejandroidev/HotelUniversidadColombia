@@ -621,3 +621,6 @@ FodyWeavers.xsd
 /obj/Debug/net6.0/refint/HotelUColombia.dll
 /obj/Debug/net6.0/HotelUColombia.dll
 /obj/Debug/net6.0/HotelUColombia.pdb
+/bin/Debug/net6.0/HotelUColombia.exe
+/obj/Debug/net6.0/HotelUColombia.AssemblyInfo.cs
+/obj/Debug/net6.0/HotelUColombia.AssemblyInfoInputs.cache
