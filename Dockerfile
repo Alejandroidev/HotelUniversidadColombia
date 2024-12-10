@@ -8,12 +8,12 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 
 # Copia el archivo .csproj y restaura las dependencias
-COPY ["HotelUColombia/HotelUColombia.csproj", "HotelUColombia/"]
-RUN dotnet restore "HotelUColombia/HotelUColombia.csproj"
+COPY HotelUColombia.csproj ./
+RUN dotnet restore "HotelUColombia.csproj"
 
 # Copia el resto del código y construye la aplicación
 COPY . .
-WORKDIR "/src/HotelUColombia"
+WORKDIR "/src"
 RUN dotnet build "HotelUColombia.csproj" -c Release -o /app/build
 
 # Publica la aplicación
