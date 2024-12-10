@@ -1,6 +1,3 @@
-
-dockerfile
-Copiar código
 # Usa la imagen base de .NET 6
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
