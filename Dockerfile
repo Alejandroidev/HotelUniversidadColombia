@@ -1,3 +1,6 @@
+
+dockerfile
+Copiar código
 # Usa la imagen base de .NET 6
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
@@ -25,5 +28,5 @@ COPY wwwroot /app/wwwroot
 # Configura el contenedor para ejecutar la aplicación
 FROM base AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "HotelUColombia.dll"]
