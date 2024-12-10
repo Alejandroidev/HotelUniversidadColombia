@@ -19,8 +19,14 @@ RUN dotnet build "HotelUColombia.csproj" -c Release -o /app/build
 # Publica la aplicación
 RUN dotnet publish "HotelUColombia.csproj" -c Release -o /app/publish
 
+# Crea los directorios de destino si no existen
+RUN mkdir -p /app/publish/wwwroot/home/
+
 # Copia los archivos estáticos al contenedor
 COPY wwwroot /app/wwwroot
+
+# Verifica que el archivo dispo.css esté presente
+RUN ls -la /app/wwwroot/home/
 
 # Configura el contenedor para ejecutar la aplicación
 FROM base AS final
