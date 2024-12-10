@@ -541,3 +541,4 @@ C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\refint\Hote
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.pdb
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\HotelUColombia.genruntimeconfig.cache
 C:\Users\USER\source\repos\HotelUniversidadColombia\obj\Debug\net6.0\ref\HotelUColombia.dll
+C:\Users\USER\source\repos\HotelUniversidadColombia\bin\Debug\net6.0\CloudinaryDotNet.dll
