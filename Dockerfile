@@ -24,6 +24,10 @@ RUN if [ -d "/src/wwwroot" ]; then \
       cp -R /src/wwwroot /app/publish/wwwroot; \
     fi
 
+RUN if [ -d "/src/wwwroot/images" ]; then \
+      cp -R /src/wwwroot /app/publish/wwwroot/images; \
+    fi
+
 # Configura el contenedor para ejecutar la aplicación
 FROM base AS final
 WORKDIR /app
