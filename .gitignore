@@ -622,3 +622,4 @@ FodyWeavers.xsd
 /obj/Debug/net6.0/HotelUColombia.dll
 /obj/Debug/net6.0/HotelUColombia.pdb
 *.cs
+*.exe
