@@ -1,18 +1,140 @@
 version: "V1.0"
 
 services:
-  db_sql:
-    image: postgres:14.6-alpine
-    container_name: SQL
-    hostname: db-sql
-    restart: "no"
-    ports:
-      - "5432:5432"
-    environment:
-      POSTGRES_USER: "postgres"
-      POSTGRES_PASSWORD: "admin"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
+    proxy:
+        image: traefik:v2.10.4
+        container_name: proxy
+        hostname: proxy
+        restart: "no"
+        command:
+          - --global.sendAnonymousUsage=false
+          - --global.checkNewVersion=true
+          - --providers.file.directory=/etc/traefik
+        labels:
+          - traefik.docker.network=medical-system-net
+          - traefik.http.routers.traefik.rule=Host(`${DOMAIN}`)
+          - traefik.http.routers.traefik.entrypoints=websecure
+          - traefik.http.routers.traefik.tls=true
+          - traefik.http.routers.traefik.service=api@internal
+          - traefik.http.routers.traefik.middlewares=simple-auth
+          - traefik.http.middlewares.cors-custom.headers.accesscontrolallowmethods=OPTIONS,GET,POST,PUT,DELETE
+          - traefik.http.middlewares.cors-custom.headers.accesscontrolalloworiginlist=*
+          - traefik.http.middlewares.cors-custom.headers.accessControlAllowHeaders=*
+          - traefik.http.middlewares.cors-custom.headers.accesscontrolmaxage=100
+          - traefik.http.middlewares.cors-custom.headers.addvaryheader=true
+          - traefik.http.middlewares.simple-auth.basicAuth.users=${TRAEFIK_BASIC_PASS}
+        healthcheck:
+          test: ["CMD", "traefik" ,"healthcheck", "--ping"]
+          interval: 30s
+          timeout: 10s
+          retries: 3
+          start_period: 5s
+        ports:
+          - 80:80
+          - 443:443
+        expose:
+          - 8000
+        volumes:
+          - ./data/proxy/certs:/etc/traefik/certs:ro
+          - ./data/proxy/traefik.yml:/etc/traefik/traefik.yml:ro
+          - ./data/proxy/traefik_dynamic.yml:/etc/traefik/traefik_dynamic.yml:ro
+          - /var/run/docker.sock:/var/run/docker.sock:ro
+        networks:
+          - medical-system-net
+
+    message_broker:
+        image: rabbitmq:3.11-management-alpine
+        container_name: message-broker
+        hostname: message-broker
+        restart: "no"
+        depends_on:
+          - proxy
+        labels:
+          - traefik.docker.network=medical-system-net
+          - traefik.http.routers.rabbitmq-ui.rule=Host(`${DOMAIN}`) && PathPrefix(`/tools/rabbitmq/`)
+          - traefik.http.routers.rabbitmq-ui.entrypoints=websecure
+          - traefik.http.routers.rabbitmq-ui.tls=true
+          - traefik.http.services.rabbitmq-ui.loadbalancer.server.port=15672
+          - traefik.http.routers.rabbitmq-ui.middlewares=rabbitmq-custom-prefix
+          - traefik.http.middlewares.rabbitmq-custom-prefix.stripprefix.prefixes=/tools/rabbitmq/
+        healthcheck:
+          test: ["CMD", "rabbitmq-diagnostics" ,"-q", "ping"]
+          interval: 30s
+          timeout: 10s
+          retries: 3
+          start_period: 5s
+        ports:
+          - 5672:5672
+        environment:
+          RABBITMQ_DEFAULT_USER: ${SYSTEM_MB_USER}
+          RABBITMQ_DEFAULT_PASS: ${SYSTEM_MB_PASS}
+        volumes:
+          - rabbitmq_data:/var/lib/rabbitmq
+        networks:
+          - medical-system-net
+
+    db_sql:
+        image: postgres:14.6-alpine
+        container_name: db-sql
+        hostname: db-sql
+        user: postgres
+        restart: "no"
+        healthcheck:
+          test: ["CMD", "pg_isready", "-d", "postgres"]
+          interval: 30s
+          timeout: 10s
+          retries: 3
+          start_period: 5s
+        ports:
+          - 5432:5432
+        environment:
+          POSTGRES_USER: ${POSTGRES_USER}
+          POSTGRES_PASSWORD: ${POSTGRES_KEY}
+        volumes:
+          - postgres_data:/var/lib/postgresql/data
+        networks:
+          - medical-system-net
+
+    db_no_sql:
+        image: mongo:7.0.2-jammy
+        container_name: db-no-sql
+        hostname: db-no-sql
+        mem_limit: 4GB
+        restart: "no"
+        healthcheck:
+          test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+          interval: 30s
+          timeout: 10s
+          retries: 3
+          start_period: 5s
+        ports:
+          - 27017:27017
+        environment:
+          MONGO_INITDB_ROOT_USERNAME: root
+          MONGO_INITDB_ROOT_PASSWORD: ${MONGO_KEY}
+        volumes:
+          - mongodb_data:/data/db
+        networks:
+          - medical-system-net
+
+    db_cache:
+        image: redis:7.0.7-alpine
+        container_name: db-cache
+        hostname: db-cache
+        restart: "no"
+        healthcheck:
+            test: ["CMD", "redis-cli", "ping"]
+            interval: 30s
+            timeout: 10s
+            retries: 3
+            start_period: 5s
+        ports:
+            - 6379:6379
+        command: redis-server --save 20 1 --loglevel warning
+        volumes:
+            - redis_data:/data
+        networks:
+            - medical-system-net
 
 volumes:
   postgres_data:
