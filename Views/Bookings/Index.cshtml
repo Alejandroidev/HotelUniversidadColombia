@@ -39,77 +39,80 @@
     <meta property="og:type" content="website">
     <meta data-intl-tel-input-cdn-path="intlTelInput/">
 </head>
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdRoom)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdCliente)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.PickUpDate)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.ReturnDate)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.CreatedDate)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.ValorTotal)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdStatus)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.IdUsuario)|
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
+<body>
+    <table class="table" style="padding:15px">
+        <thead>
+
             <tr>
-                <td style="padding-left:25px">
-                    <a href="@string.Format(urlRoom,item.IdRoom)">@Html.DisplayFor(modelItem => item.IdRoom)</a>
-                </td>
-                <td style="padding-left:25px">
-                    <a href="@string.Format(urlcliente,item.IdCliente)">@Html.DisplayFor(modelItem => item.IdCliente)</a>
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.PickUpDate)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.ReturnDate)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.CreatedDate)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.ValorTotal)
-                </td>
-                <td style="padding-left:25px">
-                    <a href="@string.Format(urlstaus,item.IdStatus)"> @Html.DisplayFor(modelItem => item.IdStatus)</a>
-                   
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.IdUsuario)
-                </td>
-                <td style="padding-left:25px">
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.IdRoom)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.IdCliente)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.PickUpDate)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.ReturnDate)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.CreatedDate)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.ValorTotal)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.IdStatus)|
+                </th>
+                <th style="padding-left:25px">
+                    @Html.DisplayNameFor(model => model.IdUsuario)|
+                </th>
+                <th style="padding-left:25px">
+                    actions
+                </th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="padding-left:25px">
+                        <a href="@string.Format(urlRoom,item.IdRoom)">@Html.DisplayFor(modelItem => item.IdRoom)</a>
+                    </td>
+                    <td style="padding-left:25px">
+                        <a href="@string.Format(urlcliente,item.IdCliente)">@Html.DisplayFor(modelItem => item.IdCliente)</a>
+                    </td>
+                    <td style="padding-left:25px">
+                        @Html.DisplayFor(modelItem => item.PickUpDate)
+                    </td>
+                    <td style="padding-left:25px">
+                        @Html.DisplayFor(modelItem => item.ReturnDate)
+                    </td>
+                    <td style="padding-left:25px">
+                        @Html.DisplayFor(modelItem => item.CreatedDate)
+                    </td>
+                    <td style="padding-left:25px">
+                        @Html.DisplayFor(modelItem => item.ValorTotal)
+                    </td>
+                    <td style="padding-left:25px">
+                        <a href="@string.Format(urlstaus,item.IdStatus)"> @Html.DisplayFor(modelItem => item.IdStatus)</a>
+                   
+                    </td>
+                    <td style="padding-left:25px">
+                        @Html.DisplayFor(modelItem => item.IdUsuario)
+                    </td>
+                    <td style="padding-left:25px">
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a style="color:red" asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                        <a asp-action="Create">Create </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
 </html>
 
 
