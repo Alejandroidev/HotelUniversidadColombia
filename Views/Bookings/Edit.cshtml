@@ -11,11 +11,13 @@
     <meta charset="utf-8">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Acerca de</title>
-    <link rel="stylesheet" href="main.css" media="screen">
-    <link rel="stylesheet" href="Acerca-de.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="main.js" defer=""></script>
+    <title>Edit booking</title>
+    <script class="u-script" type="text/javascript" src="/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="/main.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="/nicepage.js" defer=""></script>
+    <link rel="stylesheet" href="/Home.css" media="screen" />
+    <link rel="stylesheet" href="/main.css" media="screen" />
+    <link rel="stylesheet" href="/nicepage.css" media="screen" />
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
 
 
@@ -34,63 +36,66 @@
     <meta data-intl-tel-input-cdn-path="intlTelInput/">
 </head>
 
-<h1>Edit</h1>
 
-<h4>Booking</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="IdRoom" class="control-label"></label>
-                <input asp-for="IdRoom" class="form-control" />
-                <span asp-validation-for="IdRoom" class="text-danger"></span>
+<body>
+    <div style="padding:25px">
+        <h1>Edit</h1>
+
+        <h4>Booking</h4>
+        <div class="row">
+            <div class="col-md-4" style="padding:5px">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="IdRoom" class="control-label"></label>
+                        <input asp-for="IdRoom" class="form-control" />
+                        <span asp-validation-for="IdRoom" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="IdCliente" class="control-label"></label>
+                        <input asp-for="IdCliente" class="form-control" />
+                        <span asp-validation-for="IdCliente" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PickUpDate" class="control-label"></label>
+                        <input asp-for="PickUpDate" class="form-control" />
+                        <span asp-validation-for="PickUpDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ReturnDate" class="control-label"></label>
+                        <input asp-for="ReturnDate" class="form-control" />
+                        <span asp-validation-for="ReturnDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CreatedDate" class="control-label"></label>
+                        <input asp-for="CreatedDate" class="form-control" />
+                        <span asp-validation-for="CreatedDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ValorTotal" class="control-label"></label>
+                        <input asp-for="ValorTotal" class="form-control" />
+                        <span asp-validation-for="ValorTotal" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="IdStatus" class="control-label"></label>
+                        <input asp-for="IdStatus" class="form-control" />
+                        <span asp-validation-for="IdStatus" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="IdUsuario" class="control-label"></label>
+                        <input asp-for="IdUsuario" class="form-control" />
+                        <span asp-validation-for="IdUsuario" class="text-danger"></span>
+                    </div>
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
             </div>
-            <div class="form-group">
-                <label asp-for="IdCliente" class="control-label"></label>
-                <input asp-for="IdCliente" class="form-control" />
-                <span asp-validation-for="IdCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PickUpDate" class="control-label"></label>
-                <input asp-for="PickUpDate" class="form-control" />
-                <span asp-validation-for="PickUpDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ReturnDate" class="control-label"></label>
-                <input asp-for="ReturnDate" class="form-control" />
-                <span asp-validation-for="ReturnDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CreatedDate" class="control-label"></label>
-                <input asp-for="CreatedDate" class="form-control" />
-                <span asp-validation-for="CreatedDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ValorTotal" class="control-label"></label>
-                <input asp-for="ValorTotal" class="form-control" />
-                <span asp-validation-for="ValorTotal" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdStatus" class="control-label"></label>
-                <input asp-for="IdStatus" class="form-control" />
-                <span asp-validation-for="IdStatus" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdUsuario" class="control-label"></label>
-                <input asp-for="IdUsuario" class="form-control" />
-                <span asp-validation-for="IdUsuario" class="text-danger"></span>
-            </div>
-            <input type="hidden" asp-for="Id" />
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
+
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
+</body>
