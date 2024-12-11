@@ -51,22 +51,7 @@
                     @Html.DisplayNameFor(model => model.IdCliente)|
                 </th>
                 <th style="padding-left:25px">
-                    @Html.DisplayNameFor(model => model.PickUpDate)|
-                </th>
-                <th style="padding-left:25px">
-                    @Html.DisplayNameFor(model => model.ReturnDate)|
-                </th>
-                <th style="padding-left:25px">
-                    @Html.DisplayNameFor(model => model.CreatedDate)|
-                </th>
-                <th style="padding-left:25px">
-                    @Html.DisplayNameFor(model => model.ValorTotal)|
-                </th>
-                <th style="padding-left:25px">
                     @Html.DisplayNameFor(model => model.IdStatus)|
-                </th>
-                <th style="padding-left:25px">
-                    @Html.DisplayNameFor(model => model.IdUsuario)|
                 </th>
                 <th style="padding-left:25px">
                     actions
@@ -84,23 +69,7 @@
                         <a href="@string.Format(urlcliente,item.IdCliente)">@Html.DisplayFor(modelItem => item.IdCliente)</a>
                     </td>
                     <td style="padding-left:25px">
-                        @Html.DisplayFor(modelItem => item.PickUpDate)
-                    </td>
-                    <td style="padding-left:25px">
-                        @Html.DisplayFor(modelItem => item.ReturnDate)
-                    </td>
-                    <td style="padding-left:25px">
-                        @Html.DisplayFor(modelItem => item.CreatedDate)
-                    </td>
-                    <td style="padding-left:25px">
-                        @Html.DisplayFor(modelItem => item.ValorTotal)
-                    </td>
-                    <td style="padding-left:25px">
                         <a href="@string.Format(urlstaus,item.IdStatus)"> @Html.DisplayFor(modelItem => item.IdStatus)</a>
-                   
-                    </td>
-                    <td style="padding-left:25px">
-                        @Html.DisplayFor(modelItem => item.IdUsuario)
                     </td>
                     <td style="padding-left:25px">
                         <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

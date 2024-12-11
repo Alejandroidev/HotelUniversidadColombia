@@ -58,15 +58,6 @@
             <th style="padding-left:25px">
                 @Html.DisplayNameFor(model => model.Freezer)|
             </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.NumberBeds)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.Image)|
-            </th>
-            <th style="padding-left:25px">
-                @Html.DisplayNameFor(model => model.Price)|
-            </th>
 
             <th></th>
         </tr>
@@ -77,6 +68,9 @@
             <tr>
                 <td style="padding-left:25px">
                     @Html.DisplayFor(modelItem => item.Id)
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </td>
                 <td style="padding-left:25px">
                     @Html.DisplayFor(modelItem => item.Category)
@@ -89,21 +83,6 @@
                 </td>
                 <td style="padding-left:25px">
                     @Html.DisplayFor(modelItem => item.Freezer)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.NumberBeds)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.Image)
-                </td>
-                <td style="padding-left:25px">
-                    @Html.DisplayFor(modelItem => item.Price)
-                </td>
-
-                <td style="padding-left:25px">
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </td>
             </tr>
         }
