@@ -333,7 +333,18 @@ namespace HotelUColombia
         /// Contacto
         /// </summary>
         /// <returns></returns>
-        public IActionResult get()
+        public IActionResult Admin()
+        {
+            return View();
+        }
+        #endregion
+
+        #region login
+        /// <summary>
+        /// Contacto
+        /// </summary>
+        /// <returns></returns>
+        public IActionResult Login()
         {
             return View();
         }
@@ -369,6 +380,21 @@ namespace HotelUColombia
             Problem("Entity set 'HotelUColombiaContext.Client'  is null.");
 
 
+        }
+
+
+        public IActionResult Log(string username,string userpass)
+        {
+            // Ejemplo de autenticación (puedes reemplazar esto con tu lógica real)
+            if (_context.User.Any(a => a.User_Name == username && a.Password == userpass))
+            {
+                // Redirigir a la página principal después del login exitoso
+                return RedirectToAction("Admin", "Home");
+            }
+
+            // Si falla, devolver la vista con un mensaje de error
+            ViewBag.ErrorMessage = "Invalid username or password.";
+            return View("Login");
         }
     }
 }

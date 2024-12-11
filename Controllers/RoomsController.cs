@@ -78,7 +78,7 @@ namespace HotelUColombia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Category,TV,Bathroom,Freezer,NumberBeds,Image,Price,Id")] Rooms rooms)
+        public async Task<IActionResult> Create([Bind("Category,TV,Bathroom,Freezer,NumberBeds,Image,Price")] Rooms rooms)
         {
             if (ModelState.IsValid)
             {

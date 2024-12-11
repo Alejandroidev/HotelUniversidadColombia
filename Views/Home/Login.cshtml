@@ -1,0 +1,84 @@
+﻿@model HotelUColombia.Models.User
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script class="u-script" type="text/javascript" src="/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="/main.js" defer=""></script>
+    <link rel="stylesheet" href="/Home.css" media="screen" />
+    <link rel="stylesheet" href="/main.css" media="screen" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+
+        .login-container {
+            background: #fff;
+            padding: 20px 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+
+            .login-container h1 {
+                font-size: 24px;
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+            .login-container input {
+                width: 100%;
+                padding: 10px;
+                margin: 10px 0;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+
+            .login-container button {
+                width: 50%;
+                padding: 10px;
+                background-color: #007BFF;
+                border: none;
+                color: white;
+                font-size: 16px;
+                cursor: pointer;
+
+            }
+
+                .login-container button:hover {
+                    background-color: bla;
+                }
+
+        .error-message {
+            color: red;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container" style="
+    background: white;
+    width: 100%;
+    padding: 10%;
+    align-content: center;
+">
+        <h1>Login</h1>
+        <form method="Login" action="\home\log">
+            <input type="text" name="username" placeholder="Username" required />
+            <input type="password" name="userpass" placeholder="Password" required />
+            <button type="submit">Login</button>
+        </form>
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="error-message">
+                @ViewBag.ErrorMessage
+            </div>
+        }
+    </div>
+</body>
+</html>
