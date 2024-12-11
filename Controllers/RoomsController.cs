@@ -82,7 +82,17 @@ namespace HotelUColombia.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(rooms);
+                Rooms newRoom = new Rooms() 
+                {
+                    Bathroom = rooms.Bathroom,
+                    Category = rooms.Category,
+                    Freezer = rooms.Freezer,
+                    Image = rooms.Image,
+                    NumberBeds = rooms.NumberBeds,
+                    Price = rooms.Price,
+                    TV = rooms.TV
+                };
+                _context.Add(newRoom);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
