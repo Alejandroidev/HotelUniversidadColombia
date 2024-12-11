@@ -328,6 +328,17 @@ namespace HotelUColombia
         }
         #endregion
 
+        #region get
+        /// <summary>
+        /// Contacto
+        /// </summary>
+        /// <returns></returns>
+        public IActionResult get()
+        {
+            return View();
+        }
+        #endregion
+
         #region GetClient
         /// <summary>
         /// GetClient
