@@ -80,13 +80,37 @@ namespace HotelUColombia.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Category,TV,Bathroom,Freezer,NumberBeds,Image,Price")] Rooms rooms)
         {
-            if (ModelState.IsValid)
+            try
             {
-                _context.Add(rooms);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    List<Rooms> lastRoom = _context.Rooms.Where(a => a.Id > 0).OrderBy(b => b.Id).ToList();
+                    int id = lastRoom.Last().Id + 1;
+                    Rooms room = new()
+                    {
+                        Id = id,
+                        Bathroom = rooms.Bathroom,
+                        Category = rooms.Category,
+                        Freezer = rooms.Freezer,
+                        Image = rooms.Image,
+                        NumberBeds = rooms.NumberBeds,
+                        Price = rooms.Price,
+                        TV = rooms.TV,
+
+                    };
+                    _context.Add(room);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+
+                }
+                return View(rooms);
+
             }
-            return View(rooms);
+            catch (Exception)
+            {
+                return View(rooms);
+            }
+
         }
         #endregion
 
