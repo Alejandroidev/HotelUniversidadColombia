@@ -630,3 +630,9 @@ obj/Debug/net6.0/HotelUColombia.AssemblyInfo.cs
 obj/Debug/net6.0/HotelUColombia.AssemblyInfoInputs.cache
 /obj/Debug/net6.0/HotelUColombia.AssemblyInfo.cs
 /obj/Debug/net6.0/HotelUColombia.AssemblyInfoInputs.cache
+/obj/Debug/net6.0/*
+/obj/Debug/net6.0/HotelUColombia.csproj.FileListAbsolute.txt
+/obj/HotelUColombia.csproj.nuget.dgspec.json
+/obj/HotelUColombia.csproj.nuget.g.props
+/obj/project.assets.json
+/obj/project.nuget.cache
