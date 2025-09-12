@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Px4qVFc2dds=",
+  "dgSpecHash": "cSQGQcS7GrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\HotelUniversidadColombia\\HotelUColombia.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\HotelUColombia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\cloudinarydotnet\\1.26.2\\cloudinarydotnet.1.26.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
@@ -238,8 +238,10 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "El paquete \"Npgsql\" 7.0.4 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\HotelUColombia.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\USER\\source\\repos\\U\\HotelUniversidadColombia\\HotelUColombia.csproj",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net6.0"
